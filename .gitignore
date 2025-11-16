@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pdf
+*.html
+*.htm
+*.js
+*.json
+5e-database/
+5e-srd-api/
+DnDAppFiles/
