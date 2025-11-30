@@ -1,0 +1,5 @@
+# D&D 5e Loot Generator requirements
+# Most modules are included with Python 3.x
+# This file exists mainly for clarity.
+
+tkinter
