@@ -1,0 +1,700 @@
+Title: Treasure
+
+URL Source: https://dnd-5e.fandom.com/wiki/Treasure
+
+Published Time: Fri, 14 Nov 2025 23:20:41 GMT
+
+Markdown Content:
+Adventurers strive for many things, including glory, knowledge, and justice. Many adventurers also seek something more tangible: fortune. Strands of golden chains, stacks of platinum coins, bejeweled crowns, enameled scepters, bolts of silk cloth, and powerful magic items all wait to be seized or unearthed by intrepid, treasure-seeking adventurers.
+
+This page details magic items and the placement of treasure in an adventure, as well as special rewards that can be granted instead of or in addition to magic items and mundane treasure.
+
+Types of Treasure[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D1&uselang=en "Sign in to edit")]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+_**Coins.**_ The most basic type of treasure is money, including copper pieces (cp), silver pieces (sp), electrum pieces (ep), gold pieces (gp), and platinum pieces (pp). Fifty coins of any type weigh 1 pound.
+
+_**Gemstones.**_ Gemstones are small, lightweight, and easily secured compared to their same value in coins. See the "Gemstones" section for types of stones, gems, and jewels that can be found as treasure.
+
+_**Art Objects.**_ Idols cast of solid gold, necklaces studded with precious stones, paintings of ancient kings, bejeweled dishes-art objects include all these and more. See the "Art Objects" section for types of decorative and valuable artworks that can be found as treasure.
+
+_**Magic Items.**_ Types of magic items include [armor](https://dnd-5e.fandom.com/wiki/Category:Armor "Category:Armor"), [potions](https://dnd-5e.fandom.com/wiki/Category:Potion "Category:Potion"), [scrolls](https://dnd-5e.fandom.com/wiki/Category:Scroll "Category:Scroll"), [rings](https://dnd-5e.fandom.com/wiki/Category:Ring "Category:Ring"), [rods](https://dnd-5e.fandom.com/wiki/Category:Rod "Category:Rod"), [staffs](https://dnd-5e.fandom.com/wiki/Category:Staff "Category:Staff"), [wands](https://dnd-5e.fandom.com/wiki/Category:Wand "Category:Wand"), [weapons](https://dnd-5e.fandom.com/wiki/Category:Weapon "Category:Weapon"), and [wondrous items](https://dnd-5e.fandom.com/wiki/Category:Wondrous_Item "Category:Wondrous Item"). Magic items also have rarities: [common](https://dnd-5e.fandom.com/wiki/Category:Common "Category:Common"), [uncommon](https://dnd-5e.fandom.com/wiki/Category:Uncommon "Category:Uncommon"), [rare](https://dnd-5e.fandom.com/wiki/Category:Rare "Category:Rare"), [very rare](https://dnd-5e.fandom.com/wiki/Category:Very_Rare "Category:Very Rare"), and [legendary](https://dnd-5e.fandom.com/wiki/Category:Legendary "Category:Legendary"). Intelligent monsters often use magic items in their possession, while others might hide them away to ensure they don't get lost or stolen. For example, if a hobgoblin tribe has a +1 longsword and an alchemy jug in its treasure hoard, the tribe's warlord might wield the sword, while the jug is kept somewhere safe.
+
+Random Treasure[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")]
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+This section contains tables that you can use to randomly generate treasures carried by monsters, stashed in their lairs, or otherwise hidden away. The placement of treasure is left to your discretion. The key is to make sure the players feel rewarded for playing, and that their characters are rewarded for overcoming dangerous challenges.
+
+Treasure Tables[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit")]
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Treasure can be randomly allocated based on a monster's challenge rating. There are tables for challenge rating 0-4, challenge rating 5-10, challenge rating 11-16, and challenge rating 17 and higher. Use these tables to randomly determine how much money an individual monster carries (the D&D equivalent of pocket change) or the amount of wealth found in a larger treasure hoard.
+
+### Using the Individual Treasure Tables[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D4&uselang=en "Sign in to edit")]
+
+An Individual Treasure table helps you randomly determine how much treasure one creature carries on its person. If a monster has no interest in amassing treasure, you can use this table to determine the incidental treasure left behind by the monster's victims.
+
+Use the Individual Treasure table that corresponds to the monster's challenge rating. Roll a d100, and read the result across to determine how many coins of each type the monster carries. The table also includes the average result in parentheses, should you wish to forgo another roll and save time. To determine the total amount of individual treasure for a group of similar creatures, you can save time by rolling once and multiplying the result by the number of creatures in the group.
+
+If it doesn't make sense for a monster to carry a large pile of coins, you can convert the coins into gemstones or art objects of equal value.
+
+#### Individual Treasure: Challenge 0-4[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D5&uselang=en "Sign in to edit")]
+
+| d100 | cp | sp | ep | gp | pp |
+| --- | --- | --- | --- | --- | --- |
+| 01-30 | 5d6 (17) | — | — | — | — |
+| 31-60 | — | 4d6 (14) | — | — | — |
+| 61-70 | — | — | 3d6 (10) | — | — |
+| 71-95 | — | — | — | 3d6 (10) | — |
+| 96-00 | — | — | — | — | 1d6 (3) |
+
+#### Individual Treasure: Challenge 5-10[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D6&uselang=en "Sign in to edit")]
+
+| d100 | cp | sp | ep | gp | pp |
+| --- | --- | --- | --- | --- | --- |
+| 01-30 | 4d6 x 100 (1,400) | — | 1d6 x 10 (35) | — | — |
+| 31-60 | — | 6d6 x 10 (210) | — | 2d6 x 10 (70) | — |
+| 61-70 | — | — | 3d6 x 10 (105) | 2d6 x 10 (70) | — |
+| 71-95 | — | — | — | 4d6 x 10 (140) | — |
+| 96-00 | — | — | — | 2d6 x 10 (70) | 3d6 (10) |
+
+#### Individual Treasure: Challenge 11-16[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D7&uselang=en "Sign in to edit")]
+
+| d100 | cp | sp | ep | gp | pp |
+| --- | --- | --- | --- | --- | --- |
+| 01-20 | — | 4d6 x 100 (1,400) | — | 1d6 x 100 (350) | — |
+| 21-35 | — | — | 1d6 x 100 (350) | 1d6 x 100 (350) | — |
+| 36-75 | — | — | — | 2d6 x 100 (700) | 1d6 x 10 (35) |
+| 76-00 | — | — | — | 2d6 x 100 (700) | 2d6 x 10 (70) |
+
+#### Individual Treasure: Challenge 17+[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D8&uselang=en "Sign in to edit")]
+
+| d100 | cp | sp | ep | gp | pp |
+| --- | --- | --- | --- | --- | --- |
+| 01-15 | — | — | 2d6 x 1000 (7,000) | 8d6 x 100 (2,800) | — |
+| 16-55 | — | — | — | 1d6 x 1000 (3,500) | 1d6 x 100 (350) |
+| 56-00 | — | — | — | 1d6 x 1000 (3,500) | 2d6 x 100 (700) |
+
+### Using the Treasure Hoard Tables[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D9&uselang=en "Sign in to edit")]
+
+A Treasure Hoard table helps you randomly determine the contents of a large cache of treasure, the accumulated wealth of a large group of creatures (such as an ore tribe or a hobgoblin army), the belongings of a single powerful creature that likes to hoard treasure (such as a [dragon](https://dnd-5e.fandom.com/wiki/Category:Dragon "Category:Dragon")), or the reward bestowed upon a party after completing a quest for a benefactor. You can also split up a treasure hoard so that the adventurers don't find or receive it all at once.
+
+When determining the contents of a hoard belonging to one monster, use the table that corresponds to that monster's challenge rating. When rolling to determine a treasure hoard belonging to a large group of monsters, use the challenge rating of the monster that leads the group. If the hoard belongs to no one, use the challenge rating of the monster that presides over the dungeon or lair you are stocking. If the hoard is a gift from a benefactor, use the challenge rating equal to the party's average level.
+
+Every treasure hoard contains a random number of coins, as shown at the top of each table. Roll a d100 and consult the table to determine how many gemstones or art objects the hoard contains, if any. Use the same roll to determine whether the hoard contains magic items. As with the individual treasure tables, average values are given in parentheses. You can use an average value instead of rolling dice to save time.
+
+If a treasure hoard seems too small, you can roll multiple times on the table. Use this approach for monsters that are particularly fond of amassing treasure. [Legendary creatures](https://dnd-5e.fandom.com/wiki/Category:Legendary_Actions "Category:Legendary Actions") that accumulate treasure are wealthier than normal. Always roll at least twice on the appropriate table and add the results together.
+
+You can hand out as much or as little treasure as you want. Over the course of a typical campaign, a party finds treasure hoards amounting to seven rolls on the Challenge 0-4 table, eighteen rolls on the Challenge 5-10 table, twelve rolls on the Challenge 11-16 table, and eight rolls on the Challenge 17+ table.
+
+#### Treasure Hoard: Challenge 0-4[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D10&uselang=en "Sign in to edit")]
+
+|  | cp | sp | ep | gp | pp |
+| --- | --- | --- | --- | --- | --- |
+| Coins | 6d6 x 100 (2,100) | 3d6 x 100 (1,050) | — | 2d6 x 10 (70) | — |
+| d100 | Gems or Art Objects | Magic Items |
+| 01-06 | — | — |
+| 07-16 | 2d6 (7) [10 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#10_gp_Gemstones) | — |
+| 17-26 | 2d4 (5) [25 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#25_gp_Art_Objects) | — |
+| 27-36 | 2d6 (7) [50 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#50_gp_Gemstones) | — |
+| 37-44 | 2d6 (7) [10 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#10_gp_Gemstones) | Roll 1d6 times on [Magic Item Table A](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_A). |
+| 45-52 | 2d4 (5) [25 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#25_gp_Art_Objects) | Roll 1d6 times on [Magic Item Table A](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_A). |
+| 53-60 | 2d6 (7) [50 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#50_gp_Gemstones) | Roll 1d6 times on [Magic Item Table A](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_A). |
+| 61-65 | 2d6 (7) [10 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#10_gp_Gemstones) | Roll 1d4 times on [Magic Item Table B](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_B). |
+| 66-70 | 2d4 (5) [25 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#25_gp_Art_Objects) | Roll 1d4 times on [Magic Item Table B](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_B). |
+| 71-75 | 2d6 (7) [50 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#50_gp_Gemstones) | Roll 1d4 times on [Magic Item Table B](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_B). |
+| 76-78 | 2d6 (7) [10 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#10_gp_Gemstones) | Roll 1d4 times on [Magic Item Table C](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_C). |
+| 79-80 | 2d4 (5) [25 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#25_gp_Art_Objects) | Roll 1d4 times on [Magic Item Table C](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_C). |
+| 81-85 | 2d6 (7) [50 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#50_gp_Gemstones) | Roll 1d4 times on [Magic Item Table C](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_C). |
+| 86-92 | 2d4 (5) [25 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#25_gp_Art_Objects) | Roll 1d4 times on [Magic Item Table F](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_F). |
+| 93-97 | 2d6 (7) [50 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#50_gp_Gemstones) | Roll 1d4 times on [Magic Item Table F](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_F). |
+| 98-99 | 2d4 (5) [25 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#25_gp_Art_Objects) | Roll once on [Magic Item Table G](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_G). |
+| 00 | 2d6 (7) [50 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#50_gp_Gemstones) | Roll once on [Magic Item Table G](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_G). |
+
+#### Treasure Hoard: Challenge 5-10[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D11&uselang=en "Sign in to edit")]
+
+|  | cp | sp | ep | gp | pp |
+| --- | --- | --- | --- | --- | --- |
+| Coins | 2d6 x 100 (700) | 2d6 x 1000 (7,000) | — | 6d6 x 100 (2,100) | 3d6 x 10 (105) |
+| d100 | Gems or Art Objects | Magic Items |
+| 01-04 | — | — |
+| 05-10 | 2d4 (5) [25 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#25_gp_Art_Objects) | — |
+| 11-16 | 3d6 (10) [50 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#50_gp_Gemstones) | — |
+| 17-22 | 3d6 (10) [100 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#100_gp_Gemstones) | — |
+| 23-28 | 2d4 (5) [250 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#250_gp_Art_Objects) | — |
+| 29-32 | 2d4 (5) [25 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#25_gp_Art_Objects) | Roll 1d6 times on [Magic Item Table A](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_A). |
+| 33-36 | 3d6 (10) [50 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#50_gp_Gemstones) | Roll 1d6 times on [Magic Item Table A](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_A). |
+| 37-40 | 3d6 (10) [100 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#100_gp_Gemstones) | Roll 1d6 times on [Magic Item Table A](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_A). |
+| 41-44 | 2d4 (5) [250 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#250_gp_Art_Objects) | Roll 1d6 times on [Magic Item Table A](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_A). |
+| 45-49 | 2d4 (5) [25 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#25_gp_Art_Objects) | Roll 1d4 times on [Magic Item Table B](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_B). |
+| 50-54 | 3d6 (10) [50 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#50_gp_Gemstones) | Roll 1d4 times on [Magic Item Table B](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_B). |
+| 55-59 | 3d6 (10) [100 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#100_gp_Gemstones) | Roll 1d4 times on [Magic Item Table B](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_B). |
+| 60-63 | 2d4 (5) [250 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#250_gp_Art_Objects) | Roll 1d4 times on [Magic Item Table B](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_B). |
+| 64-66 | 2d4 (5) [25 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#25_gp_Art_Objects) | Roll 1d4 times on [Magic Item Table C](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_C). |
+| 67-69 | 3d6 (10) [50 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#50_gp_Gemstones) | Roll 1d4 times on [Magic Item Table C](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_C). |
+| 70-72 | 3d6 (10) [100 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#100_gp_Gemstones) | Roll 1d4 times on [Magic Item Table C](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_C). |
+| 73-74 | 2d4 (5) [250 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#250_gp_Art_Objects) | Roll 1d4 times on [Magic Item Table C](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_C). |
+| 75-76 | 2d4 (5) [25 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#25_gp_Art_Objects) | Roll once on [Magic Item Table D](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_D). |
+| 77-78 | 3d6 (10) [50 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#50_gp_Gemstones) | Roll once on [Magic Item Table D](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_D). |
+| 79 | 3d6 (10) [100 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#100_gp_Gemstones) | Roll once on [Magic Item Table D](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_D). |
+| 80 | 2d4 (5) [250 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#250_gp_Art_Objects) | Roll once on [Magic Item Table D](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_D). |
+| 81-84 | 2d4 (5) [25 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#25_gp_Art_Objects) | Roll 1d4 times on [Magic Item Table F](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_F). |
+| 85-88 | 3d6 (10) [50 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#50_gp_Gemstones) | Roll 1d4 times on [Magic Item Table F](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_F). |
+| 89-91 | 3d6 (10) [100 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#100_gp_Gemstones) | Roll 1d4 times on [Magic Item Table F](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_F). |
+| 92-94 | 2d4 (5) [250 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#250_gp_Art_Objects) | Roll 1d4 times on [Magic Item Table F](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_F). |
+| 95-96 | 3d6 (10) [100 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#100_gp_Gemstones) | Roll 1d4 times on [Magic Item Table G](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_G). |
+| 97-98 | 2d4 (5) [250 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#250_gp_Art_Objects) | Roll 1d4 times on [Magic Item Table G](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_G). |
+| 99 | 3d6 (10) [100 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#100_gp_Gemstones) | Roll once on [Magic Item Table H](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_H). |
+| 00 | 2d4 (5) [250 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#250_gp_Art_Objects) | Roll once on [Magic Item Table H](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_H). |
+
+#### Treasure Hoard: Challenge 11-16[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D12&uselang=en "Sign in to edit")]
+
+|  | cp | sp | ep | gp | pp |
+| --- | --- | --- | --- | --- | --- |
+| Coins | — | — | — | 4d6 x 1000 (14,000) | 5d6 x 100 (1,750) |
+| d100 | Gems or Art Objects | Magic Items |
+| 01-03 | — | — |
+| 04-06 | 2d4 (5) [250 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#250_gp_Art_Objects) | — |
+| 07-09 | 2d4 (5) [750 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#750_gp_Art_Objects) | — |
+| 10-12 | 3d6 (10) [500 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#500_gp_Gemstones) | — |
+| 13-15 | 3d6 (10) [1000 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#1000_gp_Gemstones) | — |
+| 16-19 | 2d4 (5) [250 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#250_gp_Art_Objects) | Roll 1d4 times on [Magic Item Table A](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_A) and 1d6 times on [Magic Item Table B](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_B). |
+| 20-23 | 2d4 (5) [750 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#750_gp_Art_Objects) | Roll 1d4 times on [Magic Item Table A](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_A) and 1d6 times on [Magic Item Table B](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_B). |
+| 24-26 | 3d6 (10) [500 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#500_gp_Gemstones) | Roll 1d4 times on [Magic Item Table A](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_A) and 1d6 times on [Magic Item Table B](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_B). |
+| 27-29 | 3d6 (10) [1000 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#1000_gp_Gemstones) | Roll 1d4 times on [Magic Item Table A](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_A) and 1d6 times on [Magic Item Table B](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_B). |
+| 30-35 | 2d4 (5) [250 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#250_gp_Art_Objects) | Roll 1d6 times on [Magic Item Table C](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_C). |
+| 36-40 | 2d4 (5) [750 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#750_gp_Art_Objects) | Roll 1d6 times on [Magic Item Table C](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_C). |
+| 41-45 | 3d6 (10) [500 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#500_gp_Gemstones) | Roll 1d6 times on [Magic Item Table C](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_C). |
+| 46-50 | 3d6 (10) [1000 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#1000_gp_Gemstones) | Roll 1d6 times on [Magic Item Table C](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_C). |
+| 51-54 | 2d4 (5) [250 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#250_gp_Art_Objects) | Roll 1d6 times on [Magic Item Table D](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_D). |
+| 55-58 | 2d4 (5) [750 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#750_gp_Art_Objects) | Roll 1d6 times on [Magic Item Table D](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_D). |
+| 59-62 | 3d6 (10) [500 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#500_gp_Gemstones) | Roll 1d6 times on [Magic Item Table D](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_D). |
+| 63-66 | 3d6 (10) [1000 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#1000_gp_Gemstones) | Roll 1d6 times on [Magic Item Table D](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_D). |
+| 67-68 | 2d4 (5) [250 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#250_gp_Art_Objects) | Roll once on [Magic Item Table E](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_E). |
+| 69-70 | 2d4 (5) [750 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#750_gp_Art_Objects) | Roll once on [Magic Item Table E](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_E). |
+| 71-72 | 3d6 (10) [500 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#500_gp_Gemstones) | Roll once on [Magic Item Table E](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_E). |
+| 73-74 | 3d6 (10) [1000 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#1000_gp_Gemstones) | Roll once on [Magic Item Table E](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_E). |
+| 75-76 | 2d4 (5) [250 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#250_gp_Art_Objects) | Roll once on [Magic Item Table F](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_F) and 1d4 times on [Magic Item Table G](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_G). |
+| 77-78 | 2d4 (5) [750 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#750_gp_Art_Objects) | Roll once on [Magic Item Table F](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_F) and 1d4 times on [Magic Item Table G](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_G). |
+| 79-80 | 3d6 (10) [500 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#500_gp_Gemstones) | Roll once on [Magic Item Table F](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_F) and 1d4 times on [Magic Item Table G](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_G). |
+| 81-82 | 3d6 (10) [1000 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#1000_gp_Gemstones) | Roll once on [Magic Item Table F](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_F) and 1d4 times on [Magic Item Table G](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_G). |
+| 83-85 | 2d4 (5) [250 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#250_gp_Art_Objects) | Roll 1d4 times on [Magic Item Table H](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_H). |
+| 86-88 | 2d4 (5) [750 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#750_gp_Art_Objects) | Roll 1d4 times on [Magic Item Table H](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_H). |
+| 89-90 | 3d6 (10) [500 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#500_gp_Gemstones) | Roll 1d4 times on [Magic Item Table H](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_H). |
+| 91-92 | 3d6 (10) [1000 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#1000_gp_Gemstones) | Roll 1d4 times on [Magic Item Table H](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_H). |
+| 93-94 | 2d4 (5) [250 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#250_gp_Art_Objects) | Roll once on [Magic Item Table I](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_I). |
+| 95-96 | 2d4 (5) [750 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#750_gp_Art_Objects) | Roll once on [Magic Item Table I](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_I). |
+| 97-98 | 3d6 (10) [500 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#500_gp_Gemstones) | Roll once on [Magic Item Table I](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_I). |
+| 99-00 | 3d6 (10) [1000 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#1000_gp_Gemstones) | Roll once on [Magic Item Table I](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_I). |
+
+#### Treasure Hoard: Challenge 17+[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D13&uselang=en "Sign in to edit")]
+
+|  | cp | sp | ep | gp | pp |
+| --- | --- | --- | --- | --- | --- |
+| Coins | — | — | — | 12d6 x 1000 (42,000) | 8d6 x 1000 (28,000) |
+| d100 | Gems or Art Objects | Magic Items |
+| 01-02 | — | — |
+| 03-05 | 3d6 (10) [1000 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#1000_gp_Gemstones). | Roll 1d8 times on [Magic Item Table C](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_C). |
+| 06-08 | 1d10 (5) [2500 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#2500_gp_Art_Objects). | Roll 1d8 times on [Magic Item Table C](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_C). |
+| 09-11 | 1d4 (2) [7500 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#7500_gp_Art_Objects). | Roll 1d8 times on [Magic Item Table C](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_C). |
+| 12-14 | 1d8 (4) [5000 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#5000_gp_Gemstones). | Roll 1d8 times on [Magic Item Table C](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_C). |
+| 15-22 | 3d6 (10) [1000 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#1000_gp_Gemstones). | Roll 1d6 times on [Magic Item Table D](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_D). |
+| 23-30 | 1d10 (5) [2500 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#2500_gp_Art_Objects). | Roll 1d6 times on [Magic Item Table D](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_D). |
+| 31-38 | 1d4 (2) [7500 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#7500_gp_Art_Objects). | Roll 1d6 times on [Magic Item Table D](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_D). |
+| 39-46 | 1d8 (4) [5000 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#5000_gp_Gemstones). | Roll 1d6 times on [Magic Item Table D](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_D). |
+| 47-52 | 3d6 (10) [1000 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#1000_gp_Gemstones). | Roll 1d6 times on [Magic Item Table E](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_E). |
+| 53-58 | 1d10 (5) [2500 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#2500_gp_Art_Objects). | Roll 1d6 times on [Magic Item Table E](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_E). |
+| 59-63 | 1d4 (2) [7500 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#7500_gp_Art_Objects). | Roll 1d6 times on [Magic Item Table E](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_E). |
+| 64-68 | 1d8 (4) [5000 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#5000_gp_Gemstones). | Roll 1d6 times on [Magic Item Table E](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_E). |
+| 69 | 3d6 (10) [1000 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#1000_gp_Gemstones). | Roll 1d4 times on [Magic Item Table G](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_G). |
+| 70 | 1d10 (5) [2500 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#2500_gp_Art_Objects). | Roll 1d4 times on [Magic Item Table G](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_G). |
+| 71 | 1d4 (2) [7500 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#7500_gp_Art_Objects). | Roll 1d4 times on [Magic Item Table G](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_G). |
+| 72 | 1d8 (4) [5000 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#5000_gp_Gemstones). | Roll 1d4 times on [Magic Item Table G](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_G). |
+| 73-74 | 3d6 (10) [1000 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#1000_gp_Gemstones). | Roll 1d4 times on [Magic Item Table H](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_H). |
+| 75-76 | 1d10 (5) [2500 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#2500_gp_Art_Objects). | Roll 1d4 times on [Magic Item Table H](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_H). |
+| 77-78 | 1d4 (2) [7500 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#7500_gp_Art_Objects). | Roll 1d4 times on [Magic Item Table H](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_H). |
+| 79-80 | 1d8 (4) [5000 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#5000_gp_Gemstones). | Roll 1d4 times on [Magic Item Table H](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_H). |
+| 81-85 | 3d6 (10) [1000 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#1000_gp_Gemstones). | Roll 1d4 times on [Magic Item Table I](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_I). |
+| 86-90 | 1d10 (5) [2500 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#2500_gp_Art_Objects). | Roll 1d4 times on [Magic Item Table I](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_I). |
+| 91-95 | 1d4 (2) [7500 gp art objects](https://dnd-5e.fandom.com/wiki/Treasure#7500_gp_Art_Objects). | Roll 1d4 times on [Magic Item Table I](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_I). |
+| 96-00 | 1d8 (4) [5000 gp gems](https://dnd-5e.fandom.com/wiki/Treasure#5000_gp_Gemstones). | Roll 1d4 times on [Magic Item Table I](https://dnd-5e.fandom.com/wiki/Treasure#Magic_Item_Table_I). |
+
+### Gemstones[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D14&uselang=en "Sign in to edit")]
+
+If a treasure hoard includes gemstones, you can use the following tables to randomly determine the kind of gemstones found, based on their value. You can roll once and assume all the gems are the same, or roll multiple times to create mixed collections of gemstones.
+
+#### 10 gp Gemstones[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D15&uselang=en "Sign in to edit")]
+
+| d12 | Stone Description |
+| --- | --- |
+| 1 | Azurite (opaque mottled deep blue) |
+| 2 | Banded agate (translucent striped brown, blue, white, or red) |
+| 3 | Blue quartz (transparent pale blue) |
+| 4 | Eye agate (translucent circles of gray, white, brown, blue, or green) |
+| 5 | Hematite (opaque gray-black) |
+| 6 | Lapis lazuli (opaque light and dark blue with yellow flecks) |
+| 7 | Malachite (opaque striated light and dark green) |
+| 8 | Moss agate (translucent pink or yellow-white with mossy gray or green markings) |
+| 9 | Obsidian (opaque black) |
+| 10 | Rhodochrosite (opaque light pink) |
+| 11 | Tiger eye (translucent brown with golden center) |
+| 12 | Turquoise (opaque light blue-green) |
+
+#### 50 gp Gemstones[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D16&uselang=en "Sign in to edit")]
+
+| d12 | Stone Description |
+| --- | --- |
+| 1 | Bloodstone (opaque dark gray with red flecks) |
+| 2 | Carnelian (opaque orange to red-brown) |
+| 3 | Chalcedony (opaque white) |
+| 4 | Chrysoprase (translucent green) |
+| 5 | Citrine (transparent pale yellow-brown) |
+| 6 | Jasper (opaque blue, black, or brown) |
+| 7 | Moonstone (translucent white with pale blue glow) |
+| 8 | Onyx (opaque bands of black and white, or pure black or white) |
+| 9 | Quartz (transparent white, smoky gray, or yellow) |
+| 10 | Sardonyx (opaque bands of red and white) |
+| 11 | Star rose quartz (translucent rosy stone with white star-shaped center) |
+| 12 | Zircon (transparent pale blue-green) |
+
+#### 100 gp Gemstones[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D17&uselang=en "Sign in to edit")]
+
+| d10 | Stone Description |
+| --- | --- |
+| 1 | Amber (transparent watery gold to rich gold) |
+| 2 | Amethyst (transparent deep purple) |
+| 3 | Chrysoberyl (transparent yellow-green to pale green) |
+| 4 | Coral (opaque crimson) |
+| 5 | Garnet (transparent red, brown-green, or violet) |
+| 6 | Jade (translucent light green, deep green, or white) |
+| 7 | Jet (opaque deep black) |
+| 8 | Pearl (opaque lustrous white, yellow, or pink) |
+| 9 | Spinel (transparent red, red-brown, or deep green) |
+| 10 | Tourmaline (transparent pale green, blue, brown, or red) |
+
+#### 500 gp Gemstones[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D18&uselang=en "Sign in to edit")]
+
+| d6 | Stone Description |
+| --- | --- |
+| 1 | Alexandrite (transparent dark green) |
+| 2 | Aquamarine (transparent pale blue-green) |
+| 3 | Black pearl (opaque pure black) |
+| 4 | Blue spinel (transparent deep blue) |
+| 5 | Peridot (transparent rich olive green) |
+| 6 | Topaz (transparent golden yellow) |
+
+#### 1000 gp Gemstones[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D19&uselang=en "Sign in to edit")]
+
+| d8 | Stone Description |
+| --- | --- |
+| 1 | Black opal (translucent dark green with black mottling and golden flecks) |
+| 2 | Blue sapphire (transparent blue-white to medium blue) |
+| 3 | Emerald (transparent deep bright green) |
+| 4 | Fire opal (translucent fiery red) |
+| 5 | Opal (translucent pale blue with green and golden mottling) |
+| 6 | Star ruby (translucent ruby with white star-shaped center) |
+| 7 | Star sapphire (translucent blue sapphire with white star-shaped center) |
+| 8 | Yellow sapphire (transparent fiery yellow or yellow-green) |
+
+#### 5000 gp Gemstones[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D20&uselang=en "Sign in to edit")]
+
+| d4 | Stone Description |
+| --- | --- |
+| 1 | Black sapphire (translucent lustrous black with glowing highlights) |
+| 2 | Diamond (transparent blue-white, canary, pink, brown, or blue) |
+| 3 | Jacinth (transparent fiery orange) |
+| 4 | Ruby (transparent clear red to deep crimson) |
+
+### Art Objects[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D21&uselang=en "Sign in to edit")]
+
+If a treasure hoard includes art objects, you can use the following tables to randomly determine what art objects are found, based on their value. Roll on a table as many times as there are art objects in the treasure hoard. There can be more than one of a given art object.
+
+#### 25 gp Art Objects[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D22&uselang=en "Sign in to edit")]
+
+| d10 | Object |
+| --- | --- |
+| 1 | Silver ewer |
+| 2 | Carved bone statuette |
+| 3 | Small gold bracelet |
+| 4 | Cloth-of-gold vestments |
+| 5 | Black velvet mask stitched with silver thread |
+| 6 | Copper chalice with silver filigree |
+| 7 | Pair of engraved bone dice |
+| 8 | Small mirror set in a painted wooden frame |
+| 9 | Embroidered silk handkerchief |
+| 10 | Gold locket with a painted portrait inside |
+
+#### 250 gp Art Objects[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D23&uselang=en "Sign in to edit")]
+
+| d10 | Object |
+| --- | --- |
+| 1 | Gold ring set with bloodstones |
+| 2 | Carved ivory statuette |
+| 3 | Large gold bracelet |
+| 4 | Silver necklace with a gemstone pendant |
+| 5 | Bronze crown |
+| 6 | Silk robe with gold embroidery |
+| 7 | Large well-made tapestry |
+| 8 | Brass mug with jade inlay |
+| 9 | Box of turquoise animal figurines |
+| 10 | Gold bird cage with electrum filigree |
+
+#### 750 gp Art Objects[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D24&uselang=en "Sign in to edit")]
+
+| d10 | Object |
+| --- | --- |
+| 1 | Silver chalice set with moonstones |
+| 2 | Silver-plated steel longsword with jet set in hilt |
+| 3 | Carved harp of exotic wood with ivory inlay and zircon gems |
+| 4 | Small gold idol |
+| 5 | Gold dragon comb set with red garnets as eyes |
+| 6 | Bottle stopper cork embossed with gold leaf and set with amethysts |
+| 7 | Ceremonial electrum dagger with a black pearl in the pommel |
+| 8 | Silver and gold brooch |
+| 9 | Obsidian statuette with gold fittings and inlay |
+| 10 | Painted gold war mask |
+
+#### 2500 gp Art Objects[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D25&uselang=en "Sign in to edit")]
+
+| d10 | Object |
+| --- | --- |
+| 1 | Fine gold chain set with a fire opal |
+| 2 | Old masterpiece painting |
+| 3 | Embroidered silk and velvet mantle set with numerous moonstones |
+| 4 | Platinum bracelet set with a sapphire |
+| 5 | Embroidered glove set with jewel chips |
+| 6 | Jeweled anklet |
+| 7 | Gold music box |
+| 8 | Gold circlet set with four aquamarines |
+| 9 | Eye patch with a mock eye set in blue sapphire and moonstone |
+| 10 | A necklace string of small pink pearls |
+
+#### 7500 gp Art Objects[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D26&uselang=en "Sign in to edit")]
+
+| d8 | Object |
+| --- | --- |
+| 1 | Jeweled gold crown |
+| 2 | Jeweled platinum ring |
+| 3 | Small gold statuette set with rubies |
+| 4 | Gold cup set with emeralds |
+| 5 | Gold jewelry box with platinum filigree |
+| 6 | Painted gold child's sarcophagus |
+| 7 | Jade game board with solid gold playing pieces |
+| 8 | Bejeweled ivory drinking horn with gold filigree |
+
+Magic Items[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D27&uselang=en "Sign in to edit")]
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+_See: [Magic Items](https://dnd-5e.fandom.com/wiki/Magic\_Items "Magic Items")_
+Sentient Magic Items[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D28&uselang=en "Sign in to edit")]
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+_See: [Magic Items#Sentient Magic Items](https://dnd-5e.fandom.com/wiki/Magic\_Items#Sentient\_Magic\_Items "Magic Items")_
+Artifacts[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D29&uselang=en "Sign in to edit")]
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+_See: [Magic Items#Artifacts](https://dnd-5e.fandom.com/wiki/Magic\_Items#Artifacts "Magic Items")_
+Other Rewards[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D30&uselang=en "Sign in to edit")]
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+As much as adventurers desire treasure, they often appreciate other forms of reward. This section presents a variety of ways that gods, monarchs, and other beings of power might recognize the characters' accomplishments, including supernatural gifts that give characters new capabilities; titles, lands, and other marks of prestige; and boons that are available only to adventurers who have reached 20th level.
+
+Supernatural Gifts[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D31&uselang=en "Sign in to edit")]
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+A supernatural gift is a special reward granted by a being or force of great magical power. Such supernatural gifts come in two forms: blessings and charms. A blessing is usually bestowed by a god or a godlike being. A charm is typically the work of a powerful spirit, a location of ancient magic, or a creature that has legendary actions. Unlike a magic item, a supernatural gift isn't an object and doesn't require attunement. It gives a character an extraordinary ability, which can be used one or more times.
+
+### Blessings[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D32&uselang=en "Sign in to edit")]
+
+A character might receive a blessing from a deity for doing something truly momentous-an accomplishment that catches the attention of both gods and mortals. Killing rampaging gnolls rarely warrants such a blessing, but slaying the high priest of Tiamat as he attempts to summon the Dragon Queen might.
+
+A blessing is an appropriate reward for one of the following accomplishments:
+
+*   Restoring the most sacred shrine of a god
+*   Foiling an earthshaking plot by the enemies of a god
+*   Helping a god's favored servant complete a holy quest
+
+An adventurer might also receive a blessing in advance of a perilous quest. For example, a paladin could receive one before setting out on a quest to slay a terrifying lich that is responsible for a magical plague sweeping the land.
+
+A character should receive only a blessing that is useful to him or her, and some blessings come with expectations on the part of the benefactor. A god typically gives a blessing for a particular purpose, such as recovering a holy person's remains or toppling a tyrannical empire. The god might revoke a blessing if a character fails to pursue that purpose or acts counter to it.
+
+A character retains the benefits of a blessing forever or until it is taken away by the god who granted it. Unlike a magic item, such a blessing can't be suppressed by an [Antimagic Field](https://dnd-5e.fandom.com/wiki/Antimagic_Field "Antimagic Field") or similar effect.
+
+Most adventurers go their entire lives without receiving even one of these blessings. There is no limit on the number of blessings a character can receive, but it should be rare for a character to have more than one at a time. Moreover, a character can't benefit from multiple instances of a blessing at the same time. For example, a character can't benefit from two instances of the Blessing of Health at once.
+
+Example blessings are provided below. The text of a blessing addresses its user. If you decide to create more blessings, consider this: a typical blessing mimics the properties of a wondrous item.
+
+*   _**Blessing of Health.**_ Your Constitution score increases by 2, up to a maximum of 22.
+*   _**Blessing of Protection.**_ You gain a +1 bonus to AC and saving throws.
+*   _**Blessing of Magic Resistance.**_ You have advantage on saving throws against spells and other magical effects.
+*   _**Blessing of Understanding.**_ Your Wisdom score increases by 2, up to a maximum of 22.
+*   _**Blessing of Valhalla.**_ This blessing grants you the power to summon spirit warriors, as if you had blown a silver [Horn of Valhalla](https://dnd-5e.fandom.com/wiki/Horn_of_Valhalla "Horn of Valhalla"). Once you use this blessing, you can't use it again until 7 days have passed.
+*   _**Blessing of Weapon Enhancement.**_ One nonmagical weapon in your possession becomes a +1 weapon whenever you wield it.
+*   _**Blessing of Wound Closure.**_ This blessing grants you the benefits of a [Periapt of Wound Closure](https://dnd-5e.fandom.com/wiki/Periapt_of_Wound_Closure "Periapt of Wound Closure").
+
+### Charms[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D33&uselang=en "Sign in to edit")]
+
+A charm is a minor supernatural gift, which can be received in a large variety of ways. For example, a wizard who finds an eldritch secret in a dead archmage's spellbook might be infused with the magic of a charm, as might a character who solves a sphinx's riddle or drinks from a magic fountain. Legendary creatures, such as [ancient gold dragons](https://dnd-5e.fandom.com/wiki/Ancient_Gold_Dragon "Ancient Gold Dragon") and [unicorns](https://dnd-5e.fandom.com/wiki/Unicorn "Unicorn"), sometimes grace their allies with charms, and some explorers find themselves bearing the magic of a charm after discovering a long-lost location that is drenched in primeval magic.
+
+Some charms can be used only once, and others can be used a specific number of times before vanishing. If a charm lets you cast a spell, you are able to do so without spending a spell slot or providing any components (verbal, somatic, or material). In any case, a charm can't be used in the area created by an [Antimagic Field](https://dnd-5e.fandom.com/wiki/Antimagic_Field "Antimagic Field") or a similar effect, and a charm's effects are susceptible to dispel magic and the like. But the charm itself can't be removed from a creature by anything short of divine intervention or the [Wish](https://dnd-5e.fandom.com/wiki/Wish "Wish") spell.
+
+Example charms are provided below. The text of a charm addresses its user. A typical charm mimics the effects of a potion or a spell, so it is easy to create more charms of your own, if you like.
+
+*   _**Charm of Animal Conjuring.**_ This charm allows you to cast the [Conjure Animals](https://dnd-5e.fandom.com/wiki/Conjure_Animals "Conjure Animals") spell (3rd-level version) as an action. Once used three times, the charm vanishes from you.
+*   _**Charm of Darkvision.**_ This charm allows you to cast the [Darkvision](https://dnd-5e.fandom.com/wiki/Darkvision "Darkvision") spell as an action, no components required. Once used three times, the charm goes away.
+*   _**Charm of Feather Falling.**_ This charm grants you the benefits of a [Ring of Feather Falling](https://dnd-5e.fandom.com/wiki/Ring_of_Feather_Falling "Ring of Feather Falling"). These benefits last for 10 days, after which the charm vanishes from you.
+*   _**Charm of Heroism.**_ This charm allows you to give yourself the benefit of a [Potion of Heroism](https://dnd-5e.fandom.com/wiki/Potion_of_Heroism "Potion of Heroism") as an action. Once you do so, the charm vanishes from you.
+*   _**Charm of Restoration.**_ This charm has 6 charges. You can use an action to expend some of its charges to cast one of the following spells: [Greater Restoration](https://dnd-5e.fandom.com/wiki/Greater_Restoration "Greater Restoration") (4 charges) or [Lesser Restoration](https://dnd-5e.fandom.com/wiki/Lesser_Restoration "Lesser Restoration") (2 charges). Once all its charges have been expended, the charm vanishes from you.
+*   _**Charm of the Slayer.**_ One sword in your possession becomes a [Dragon Slayer](https://dnd-5e.fandom.com/wiki/Dragon_Slayer "Dragon Slayer") or [Giant Slayer](https://dnd-5e.fandom.com/wiki/Giant_Slayer "Giant Slayer") (DM's choice) for the next 9 days. The charm then vanishes from you, and the weapon returns to normal.
+*   _**Charm of Vitality**_. This charm allows you to give yourself the benefit of a [Potion of Vitality](https://dnd-5e.fandom.com/wiki/Potion_of_Vitality "Potion of Vitality") as an action. Once you do so, the charm vanishes from you.
+
+#### Icewind Dale Chwinga Charms[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D34&uselang=en "Sign in to edit")]
+
+(Icewind Dale: Rime of the Frostmaiden, page 284)
+
+*   _**Charm of Biting Cold.**_ This charm has 3 charges. As a bonus action, you can expend one of the charm's charges to wreathe your weapon in biting cold for 1 minute. Until this effect ends, you deal an additional 1d6 cold damage when you hit with a melee or ranged weapon attack. Once all its charges have been expended, the charm vanishes from you.
+*   _**Charm of Bounty.**_ This charm has 3 charges. As an action, you can expend one of the charm's charges to cast the [Create Food and Water](https://dnd-5e.fandom.com/wiki/Create_Food_and_Water "Create Food and Water") spell, requiring no components. Once all its charges have been expended, the charm vanishes from you.
+*   _**Charm of Cold Resistance.**_ This charm allows you to give yourself resistance to cold damage as an action. This benefit lasts for 24 hours, after which the charm vanishes.
+*   _**Charm of Snowball Strike.**_ This charm has 5 charges. As a bonus action, you can expend one of the charm's charges to create a magical snowball in your hand and throw it. You must have a free hand to hold the snowball, or the charge is wasted. The snowball is a magic ranged weapon with which you are proficient, it has a normal range of 20 feet and a long range of 60 feet, it deals 1d4 cold damage on a hit, and it scores a critical hit on a 19 or 20. If you score a critical hit with the snowball, the target is blinded until the end of your next turn. the snowball vanishes immediately after you hit or miss with it, or at the end of your turn if you don't throw it. Once all its charges have been expended, this charm vanishes from you.
+*   _**Charm of the Ice Troll.**_ This charm allows you to use your reaction when you take cold damage to reduce the damage to 0. You regain a number of hit points equal to half of the cold damage you would have taken. Once you do so, the charm vanishes from you.
+*   _**Charm of the Snow Walker.**_ This charm has 3 charges. As an action, you can expend one of the charm's charges to gain the following benefits for 24 hours: 
+    *   You and your allies within 15 feet of you ignore difficult terrain caused by snow or ice.
+    *   You can see through areas heavily obscured by snow to a distance of 60 feet.
+    *   You are immune to the effects of extreme cold, as described in the Dungeon Master's Guide (though you gain no protection from cold damage).
+
+Once all its charges have been expended, this charm vanishes from you.
+*   _**Charm of the Traveler's Haven.**_ This charm has 3 charges. As an action, you can expend one of the charm's charges to cast the [Leomund's Tiny Hut](https://dnd-5e.fandom.com/wiki/Leomund%27s_Tiny_Hut "Leomund's Tiny Hut") spell, requiring no components. Once all its charges have been expended, this charm vanishes from you.
+
+#### Guildmasters' Guide to Ravnica Charms[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D35&uselang=en "Sign in to edit")]
+
+(Guildmasters' Guide to Ravnica, page 174)
+
+*   _**Azorius Charm.**_ When you activate this charm, you can cast the [Hold Person](https://dnd-5e.fandom.com/wiki/Hold_Person "Hold Person") (3rd-level version), [Command](https://dnd-5e.fandom.com/wiki/Command "Command"), or [Counterspell](https://dnd-5e.fandom.com/wiki/Counterspell "Counterspell") spell. The charm vanishes after you activate it.
+*   _**Boros Charm.**_ When you activate this charm, you can cast the [Crusader's Mantle](https://dnd-5e.fandom.com/wiki/Crusader%27s_Mantle "Crusader's Mantle") or [Haste](https://dnd-5e.fandom.com/wiki/Haste "Haste") spell. Alternatively, you can cast the [Guiding Bolt](https://dnd-5e.fandom.com/wiki/Guiding_Bolt "Guiding Bolt") spell, and if it hits, you regain a number of hit points equal to the damage it deals. The charm vanishes after you activate it.
+*   _**Dimir Charm.**_ When you activate this charm, you can cast the [Blink](https://dnd-5e.fandom.com/wiki/Blink "Blink") or [Sleep](https://dnd-5e.fandom.com/wiki/Sleep "Sleep") (3rd-level version) spell. Alternatively, when you take damage, you can use your reaction to turn [invisible](https://dnd-5e.fandom.com/wiki/Conditions#Invisible "Conditions") and teleport up to 30 feet to an unoccupied space you can see. You remain invisible until the start of your next turn or until you attack or cast a spell. The charm vanishes after you activate it.
+*   _**Golgari Charm.**_ When you activate this charm, you can cast the [Dispel Magic](https://dnd-5e.fandom.com/wiki/Dispel_Magic "Dispel Magic"), [False Life](https://dnd-5e.fandom.com/wiki/False_Life "False Life") (3rd-level version), or [Stinking Cloud](https://dnd-5e.fandom.com/wiki/Stinking_Cloud "Stinking Cloud") spell. The charm vanishes after you activate it.
+*   _**Gruul Charm.**_ When you activate this charm, you can cast the [Heroism](https://dnd-5e.fandom.com/wiki/Heroism "Heroism") or [Thunderwave](https://dnd-5e.fandom.com/wiki/Thunderwave "Thunderwave") spell (3rd-level versions). Alternatively, as a reaction when you miss with a weapon attack, you can make another attack against the target you missed. The charm vanishes after you activate it.
+*   _**Izzet Charm.**_ When you activate this charm, you can cast the [Dispel Magic](https://dnd-5e.fandom.com/wiki/Dispel_Magic "Dispel Magic") or [Lightning Bolt](https://dnd-5e.fandom.com/wiki/Lightning_Bolt "Lightning Bolt") spell. Alternatively, as an action, you can regain one expended spell slot of 3rd level or lower. The charm vanishes after you activate it.
+*   _**Orzhov Charm.**_ When you activate this charm, you can cast the [Bestow Curse](https://dnd-5e.fandom.com/wiki/Bestow_Curse "Bestow Curse") or [Fear](https://dnd-5e.fandom.com/wiki/Fear "Fear") spell. Alternatively, when a creature you can see within 30 feet of you is reduced to 0 hit points, you can use your reaction to have it drop to 1 hit point instead. The charm vanishes after you activate it.
+*   _**Rakdos Charm.**_ When you activate this charm, you can cast the [Crown of Madness](https://dnd-5e.fandom.com/wiki/Crown_of_Madness "Crown of Madness"), [Hellish Rebuke](https://dnd-5e.fandom.com/wiki/Hellish_Rebuke "Hellish Rebuke"), or [Shatter](https://dnd-5e.fandom.com/wiki/Shatter "Shatter") spell. The charm vanishes after you activate it.
+*   _**Selesnya Charm.**_ When you activate this charm, you can cast the [Aura of Vitality](https://dnd-5e.fandom.com/wiki/Aura_of_Vitality "Aura of Vitality") or [Conjure Animals](https://dnd-5e.fandom.com/wiki/Conjure_Animals "Conjure Animals") spell. Alternatively, as an action, you can give up to three creatures of your choice within 30 feet of you resistance to bludgeoning, piercing, and slashing damage until the end of your next turn. The charm vanishes after you activate it.
+*   _**Simic Charm.**_ When you activate this charm, you can cast the [Enhance Ability](https://dnd-5e.fandom.com/wiki/Enhance_Ability "Enhance Ability") (3rd-level version), [Enlarge/Reduce](https://dnd-5e.fandom.com/wiki/Enlarge/Reduce "Enlarge/Reduce"), or [Gaseous Form](https://dnd-5e.fandom.com/wiki/Gaseous_Form "Gaseous Form") spell. The charm vanishes after you activate it.
+
+### Hollow One[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D36&uselang=en "Sign in to edit")]
+
+(Explorer's Guide to Wildemount, pages 181-182)
+
+The Dungeon Master has the option to allow a character created in a Wildemount campaign to be a [Hollow One](https://dnd-5e.fandom.com/wiki/Hollow_One "Hollow One"). Alternatively, a character who perishes in the course of a campaign might return as a [Hollow One](https://dnd-5e.fandom.com/wiki/Hollow_One "Hollow One"), created by the mysterious forces that scar the land.
+
+Draconic Gifts[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D37&uselang=en "Sign in to edit")]
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+(Fizban's Treasury of Dragons, pages 27-29)
+
+The death of a dragon can result in its power taking root in a character, whether that person is the dragon's chosen heir or the dragon's killer. The result of this investiture can vary widely in power and impact, from a minor charm to a complete transformation.
+
+Sometimes, a draconic gift has an obvious visual manifestation, such as when a character is transformed into a dragonborn. Other gifts are invisible, but no less potent. But on some worlds, the investiture of draconic power is accompanied by some kind of physical manifestation, especially if it's derived from slaying a dragon. It might be small and easily hidden, but those who know to look can usually identify a dragonslayer (or another character who carries a draconic gift) by a telltale sign. The Draconic Marks table suggests some possibilities of what these marks might look like.
+
+| d4 | Visual Manifestation |
+| --- | --- |
+| 1 | One or both of the character's eyes change color to resemble the dragon's eyes or scales. |
+| 2 | The character's hair (or a streak of it) changes color to match the color of the dragon's scales. |
+| 3 | A mark like a stylized dragon eye or claw appears on the body. |
+| 4 | Patches of scales appear on the character's body, typically on the neck, shoulders, or forearms. |
+
+### Draconic Gift Descriptions[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D38&uselang=en "Sign in to edit")]
+
+The draconic gifts detailed in this section have rarities like magic items. The rarity of a draconic gift corresponds roughly to the age category of the dragon that bestowed it, as shown in the Draconic Gift Rarity table.
+
+You can use a more common draconic gift for an older dragon, but exercise caution going in the other direction. Very rare and legendary draconic gifts can unbalance the game if they're given to low-level characters.
+
+| Rarity | Age Category |
+| --- | --- |
+| Uncommon | Wyrmling |
+| Rare | Young |
+| Very Rare | Adult |
+| Legendary | Ancient |
+
+#### Draconic Familiar[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D39&uselang=en "Sign in to edit")]
+
+_Draconic gift, uncommon_
+
+You gain the aid of a draconic familiar, which might be a splinter of the consciousness of a dragon that invested you with power.
+
+You can cast the [Find Familiar](https://dnd-5e.fandom.com/wiki/Find_Familiar "Find Familiar") spell as a ritual without using any material components. When you cast the spell in this way, your familiar always takes the form of a [pseudodragon](https://dnd-5e.fandom.com/wiki/Pseudodragon "Pseudodragon").
+
+Additionally, when you take the Attack action on your turn, you can forgo one of your own attacks to allow your pseudodragon familiar to make one attack of its own with its reaction.
+
+#### Draconic Rebirth[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D40&uselang=en "Sign in to edit")]
+
+_Draconic gift, uncommon_
+
+You become a dragonborn. You replace the racial traits of your original race with the traits of a chromatic, gem, or metallic dragonborn (detailed in this book). The kind of dragonborn you become matches the family of the dragon that is the source of this gift. You can keep any skill proficiencies you gained from your previous race, or you gain proficiency in two skills of your choice.
+
+#### Draconic Senses[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D41&uselang=en "Sign in to edit")]
+
+_Draconic gift, rare_
+
+You gain keen senses like a dragon's.
+
+_**Blindsight.**_ You have blindsight to a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see invisible creatures within that range, unless the creatures successfully hide from you.
+
+_**Keen Senses.**_ You have advantage on Wisdom (Perception) checks.
+
+#### Echo of Dragonsight[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D42&uselang=en "Sign in to edit")]
+
+_Draconic gift, very rare_
+
+You have begun to extend your awareness beyond the single world of the Material Plane that is your home.
+
+You can cast [Contact Other Plane](https://dnd-5e.fandom.com/wiki/Contact_Other_Plane "Contact Other Plane") as a ritual. The entity you contact is a dragon on another world in the Material Plane, so its knowledge of your world might be limited. Also, this dragon is an echo of the dragon who is the source of the gift, which might affect its attitude and behavior toward you.
+
+#### Frightful Presence[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D43&uselang=en "Sign in to edit")]
+
+_Draconic gift, very rare_
+
+Echoes of a dragon's might linger around you, and you can call on them to inspire fear in those who stand against you.
+
+As a bonus action, you can manifest your frightful presence. Each creature of your choice that is within 120 feet of you and aware of you must make a Wisdom saving throw against a DC equal to 8 + your proficiency bonus + your Charisma modifier. A creature that fails becomes [frightened](https://dnd-5e.fandom.com/wiki/Conditions#Frightened "Conditions") of you for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+Once you use this ability a number of times equal to your proficiency bonus, you can't use it again until you finish a long rest.
+
+#### Psionic Reach[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D44&uselang=en "Sign in to edit")]
+
+_Draconic gift, very rare_
+
+The psionic energy of a gem dragon empowers your mind. You gain resistance to psychic damage.
+
+In addition, you learn the [Telekinesis](https://dnd-5e.fandom.com/wiki/Telekinesis "Telekinesis") spell. You can cast this spell without expending a spell slot. Once you cast this spell in this way, you can't do so again until you finish a long rest. You can also cast this spell using spell slots you have of the appropriate level. The spellcasting ability is Intelligence, Wisdom, or Charisma when you cast the spell with this gift (choose when you gain the gift).
+
+#### Scaled Toughness[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D45&uselang=en "Sign in to edit")]
+
+_Draconic gift, legendary_
+
+Your skin toughens, making you resistant to certain types of physical harm. You gain resistance to piercing and slashing damage.
+
+#### Tongue of the Dragon[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D46&uselang=en "Sign in to edit")]
+
+_Draconic gift, uncommon_
+
+You gain some of the majestic presence of a dragon.
+
+_**Dragon's Speech.**_ You can speak, read, and write Draconic.
+
+_**Dragon's Voice.**_ As a bonus action, you can make your voice audible up to 300 feet away for 1 minute.
+
+_**Dragon's Wiles.**_ You have advantage on Charisma (Persuasion) checks.
+
+Marks of Prestige[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D47&uselang=en "Sign in to edit")]
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Sometimes the most memorable reward for adventurers is the prestige that they acquire throughout a realm. Their adventures often earn them fame and power, allies and enemies, and titles that they can pass on to their descendants. Some lords and ladies began as commoners who ventured into the dangerous places of the world and made names for themselves through their brave deeds.
+
+This section details the most common marks of prestige that adventures might acquire during a campaign. These marks are usually gained along with treasure, but sometimes they stand on their own.
+
+### Letters of Recommendation[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D48&uselang=en "Sign in to edit")]
+
+When gold is in short supply, the adventurers' benefactor might provide them with a letter of recommendation instead of monetary payment. Such a letter is usually enclosed in a handsome folio, case, or scroll tube for safe transport, and it usually bears the signature and seal of whoever wrote it.
+
+A letter of recommendation from a person of impeccable reputation can grant adventurers access to NPCs that they would otherwise have trouble meeting on their own, such as a duke, viceroy, or queen. Moreover, carrying such a recommendation on one's person can help clear up "misunderstandings" with local authorities who might not otherwise take the adventurers at their word.
+
+A letter of recommendation is worth only as much as the person who wrote it and offers no benefit in places where its writer holds no sway.
+
+### Medals[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D49&uselang=en "Sign in to edit")]
+
+Although they are often fashioned from gold and other precious materials, medals have an even greater symbolic value to those who award and receive them.
+
+Medals are typically awarded by powerful political figures for acts of heroism, and wearing a medal is usually enough to earn the respect of those who understand its significance.
+
+Different acts of heroism can warrant different kinds of medals. The King of Breland (in the Eberron campaign setting) might award a Royal Badge of Valor (shaped like a shield and made of ruby and electrum) to adventurers for defending Brelish citizens, while the Golden Bear of Breland (a medal made of gold and shaped in a likeness of a bear's head, with gems for eyes) might be reserved for adventurers who prove their allegiance to the Brelish Crown by uncovering and defeating a plot to end the Treaty of Thronehold and reignite the Last War.
+
+A medal doesn't offer a specific in-game benefit to one who wears it, but it can affect dealings with NPCs. For example, a character who proudly displays the Golden Bear of Breland will be regarded as a hero of the people within the kingdom of Breland. Outside Breland, the medal carries far less weight, except among allies of Breland's king.
+
+### Parcels of Land[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D50&uselang=en "Sign in to edit")]
+
+A parcel of land is just that, and usually comes with a royal letter affirming that the land has been granted as a reward for some service. Such land usually remains the property of the local ruler or ruling body, but is leased to a character with the understanding that it can be taken away, especially if his or her loyalty is ever called into question.
+
+A parcel of land, if sufficiently large, might have one or more farms or villages on it already, in which case the recipient is pronounced lord or lady of the land and is expected to collect taxes, along with any other duties.
+
+A character who receives a parcel of land is free to build on it and is expected to safeguard it. He or she may yield the land as part of an inheritance, but can't sell or trade it without permission from the local ruler or ruling body.
+
+Parcels of land make fine rewards for adventurers who are looking for a place to settle or who have family or some kind of personal investment in the region where the land is located.
+
+### Special Favors[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D51&uselang=en "Sign in to edit")]
+
+A reward might come in the form of a favor that the characters can call on at some future date. Special favors work best when the individual granting them is trustworthy. A lawful good or lawful neutral NPC will do whatever can be done to fulfill an obligation when the time comes, short of breaking laws. A lawful evil NPC does the same, but only because a deal is a deal. A neutral good or neutral NPC might pay off favors to protect his or her reputation. A chaotic good NPC is more concerned about doing right by the adventurers, honoring any obligations without worrying too much about personal risk or adherence to the law.
+
+### Special Rights[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D52&uselang=en "Sign in to edit")]
+
+A politically powerful person can reward characters by giving them special rights, which are usually articulated in some sort of official document. For example, characters might be granted special rights to carry weapons in public places, kill enemies of the crown, or negotiate on a duke's behalf. They might earn the right to demand free room and board from any establishment within a particular community, or have the right to draft local militia to assist them as needed.
+
+Special rights last only as long as the legal document dictates, and such rights can be revoked if the adventurers abuse them.
+
+### Strongholds[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D53&uselang=en "Sign in to edit")]
+
+A stronghold is a reward usually given to seasoned adventurers who demonstrate unwavering fealty to a powerful political figure or ruling body, such as a king, a knighthood, or a council of wizards. A stronghold can be anything from a fortified tower in the heart of a city to a provincial keep on the borderlands. While the stronghold is for the characters to govern as they see fit, the land on which it sits remains the property of the crown or local ruler. Should the characters prove disloyal or unworthy of the gift, they can be asked or forced to relinquish custody of the stronghold.
+
+As an additional reward, the individual bequeathing the stronghold might offer to pay its maintenance costs for a period of one or more months, after which the characters inherit that responsibility. See [Recurring Expenses](https://dnd-5e.fandom.com/wiki/Expenses#Recurring_Expenses "Expenses") for more information on stronghold maintenance.
+
+### Titles[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D54&uselang=en "Sign in to edit")]
+
+A politically powerful figure has the ability to dispense titles. A title often comes with a parcel of land (see above). For example, a character might be awarded the title Earl of Stormriver or Countess of Dun Fjord, along with a parcel of land that includes a settlement or region of the same name.
+
+A character can hold more than one title, and in a feudal society, those titles can be passed down to (or distributed among) one's children. While a character holds a title, he or she is expected to act in a manner befitting that title. By decree, titles can be stripped away if the local ruler or ruling body has reason to question the character's loyalty or competence.
+
+### Training[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D55&uselang=en "Sign in to edit")]
+
+A character might be offered special training in lieu of a financial reward. This kind of training isn't widely available and thus is highly desirable. It presumes the existence of a skilled trainer-perhaps a retired adventurer or champion who is willing to serve as a mentor. The trainer might be a reclusive wizard or haughty sorcerer who owes the queen a favor, the knight-commander of the King's Guard, the leader of a powerful druid circle, a quirky monk who lives in a remote mountaintop pagoda, a barbarian chieftain, a warlock living among nomads as a fortune-teller, or an absentminded bard whose plays and poetry are known throughout the land.
+
+A character who agrees to training as a reward must spend downtime with the trainer (see [Downtime](https://dnd-5e.fandom.com/wiki/Downtime "Downtime") for more information on downtime activities). In exchange, the character is guaranteed to receive a special benefit. Possible training benefits include the following:
+
+*   The character gains inspiration daily at dawn for 1d4 + 6 days.
+*   The character gains proficiency in a skill.
+*   The character gains a [feat](https://dnd-5e.fandom.com/wiki/Feats "Feats").
+
+Epic Boons[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D56&uselang=en "Sign in to edit")]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+An epic boon is a special power available only to 20th level characters. Characters at that level gain such boons only if you want them to and only when you feel it's appropriate. Epic boons are best awarded after the characters complete a major quest, or accomplish something else particularly notable. A character might gain an epic boon after destroying an evil artifact, defeating an ancient dragon, or halting an incursion from the Outer Planes.
+
+Epic boons can also be used as a form of advancement, a way to provide greater power to characters who have no more levels to gain. With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.
+
+You determine which epic boon a character gains. Ideally, the boon you pick is something the character would put to use in future adventures. You can allow a player to select a boon for his or her character, subject to your approval.
+
+Whatever boon a character ends up with, consider its place in your story and world. Many of the boons are extraordinary and represent the gradual transformation of a character into something resembling a demigod. The acquisition of a boon might visibly transform a character. For example, the eyes of a character with the Boon of Truesight might glow when he or she feels strong emotion, and a character who has the Boon of High Magic might have faint motes of light glimmering around his or her head. Also, decide how the boon first appears. Does the boon appear spontaneously and mysteriously? Or does a being of cosmic power manifest to bestow it? The bestowal of a boon can itself be an exciting scene in an adventure.
+
+The text of a boon addresses its user. Unless a boon says otherwise, a character can't gain it more than once.
+
+*   **Boon of Combat Prowess.** When you miss with a melee weapon attack, you can choose to hit instead. Once you use this boon, you can't use it again until you finish a short rest.
+*   **Boon of Dimensional Travel.** As an action, you can cast the [Misty Step](https://dnd-5e.fandom.com/wiki/Misty_Step "Misty Step") spell, without using a spell slot or any components. Once you do so, you can't use this boon again until you finish a short rest.
+*   **Boon of Fate.** When another creature that you can see within 60 feet of you makes an ability check, an attack roll, or a saving throw, you can roll a d10 and apply the result as a bonus or penalty to the roll. Once you use this boon, you can't use it again until you finish a short rest.
+*   **Boon of Fortitude.** Your hit point maximum increases by 40.
+*   **Boon of High Magic.** You gain one 9th-level spell slot, provided that you already have one.
+*   **Boon of Immortality.** You stop aging. You are immune to any effect that would age you, and you can't die from old age.
+*   **Boon of Invincibility.** When you take damage from any source, you can reduce that damage to 0. Once you use this boon, you can't use it again until you finish a short rest.
+*   **Boon of Irresistible Offense.** You can bypass the damage resistances of any creature.
+*   **Boon of Luck.** You can add a d10 roll to any ability check, attack roll, or saving throw you make. Once you use this boon, you can't use it again until you finish a short rest.
+*   **Boon of Magic Resistance.** You have advantage on saving throws against spells and other magical effects.
+*   **Boon of Peerless Aim.** You can give yourself a +20 bonus to a ranged attack roll you make. Once you use this boon, you can't use it again until you finish a short rest.
+*   **Boon of Perfect Health.** You are immune to all diseases and poisons, and you have advantage on Constitution saving throws.
+*   **Boon of Planar Travel.** When you gain this boon, choose a plane of existence other than the Material Plane. You can now use an action to cast the [Plane Shift](https://dnd-5e.fandom.com/wiki/Plane_Shift "Plane Shift") spell (no spell slot or components required), targeting yourself only, and travel to the chosen plane, or from that plane back to the Material Plane. Once you use this boon, you can't use it again until you finish a short rest.
+*   **Boon of Quick Casting.** Choose one of your spells of 1st through 3rd level that has a casting time of 1 action. That spell's casting time is now 1 bonus action for you.
+*   **Boon of Recovery.** You can use a bonus action to regain a number of hit points equal to half your hit point maximum. Once you use this boon, you can't use it again until you finish a long rest.
+*   **Boon of Resilience.** You have resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.
+*   **Boon of Skill Proficiency.** You gain proficiency in all [skills](https://dnd-5e.fandom.com/wiki/Skills "Skills").
+*   **Boon of Speed.** Your walking speed increases by 30 feet. In addition, you can use a bonus action to take the Dash or Disengage action. Once you do so, you can't do so again until you finish a short rest.
+*   **Boon of Spell Mastery.** Choose one 1st-level sorcerer, warlock, or wizard spell that you can cast. You can now cast that spell at its lowest level without expending a spell slot.
+*   **Boon of Spell Recall.** You can cast any spell you know or have prepared without expending a spell slot. Once you do so, you can't use this boon again until you finish a long rest.
+*   **Boon of the Fire Soul.** You have immunity to fire damage. You can also cast [Burning Hands](https://dnd-5e.fandom.com/wiki/Burning_Hands "Burning Hands") (save DC 15) at will, without using a spell slot or any components.
+*   **Boon of the Night Spirit.** While completely in an area of dim light or darkness, you can become invisible as an action. You remain invisible until you take an action or a reaction.
+*   **Boon of the Stormborn.** You have immunity to lightning and thunder damage. You can also cast [Thunderwave](https://dnd-5e.fandom.com/wiki/Thunderwave "Thunderwave") (save DC 15) at will, without using a spell slot or any components.
+*   **Boon of the Unfettered.** You have advantage on ability checks made to resist being grappled. In addition, you can use an action to automatically escape a grapple or free yourself of restraints of any kind.
+*   **Boon of Truesight.** You have truesight out to a range of 60 feet.
+*   **Boon of Undetectability.** You gain a +10 bonus to Dexterity (Stealth) checks, and you can't be detected or targeted by divination magic, including [Scrying](https://dnd-5e.fandom.com/wiki/Scrying "Scrying") sensors.
+
+### Alternatives to Epic Boons[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FTreasure%3Fveaction%3Dedit%26section%3D57&uselang=en "Sign in to edit")]
+
+You might decide to grant one of the following rewards to a 20th-level character, instead of awarding an epic boon. These two options can be awarded to a character more than once.
+
+*   _**Ability Score Improvement.**_ The character can increase one ability score by 2 or increase two ability scores by 1 each. The ability score can now be increased above 20, up to a maximum of 30.
+*   _**New Feat.**_ The character gains a new [feat](https://dnd-5e.fandom.com/wiki/Feats "Feats") chosen by the player, but subject to your approval.

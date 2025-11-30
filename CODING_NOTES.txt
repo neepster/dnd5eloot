@@ -1,0 +1,40 @@
+Project: D&D 5e Loot Generator (Tkinter)
+
+Main file: loot_gui.py
+- Tkinter GUI for generating SRD-style treasure (individual or hoard) with coins, gems/art, magic items, and clipboard copy.
+- Individual treasure now always includes a CR-scaled magic item (toggleable checkbox).
+- Hoard tables and individual tables are embedded.
+- Spell scrolls expand to real spell names using a local spell list (no network).
+
+Custom items & persistence:
+- GUI supports global extra items (one per line) appended to all tables.
+- Scoped additions: specify item, target table (A–I or ALL), and CR band (Any, 0-4, 5-10, 11-16, 17+). Added items are auto-saved.
+- JSON load/save: path in the JSON entry (default custom_items.json). Auto-loads on startup. Saves include:
+  - Per-table lists (keys A–I)
+  - GLOBAL (list)
+  - CR_SCOPED (list of {range:[low, high], item})
+- Manual “Save custom items to JSON” button also available.
+
+Spell scrolls:
+- Local DEFAULT_SPELLS per level. Spell scroll items like “Spell scroll (5th level)” become “Spell scroll (level 5): <random spell>”.
+
+Error handling:
+- Generate is wrapped in try/except to prevent GUI crashes; errors shown in the output box.
+
+Repository state:
+- A .gitignore was added to exclude venv, caches, downloaded HTML/JS/PDF/json artifacts, and cloned data repos.
+- Committed files: loot_gui.py and .gitignore on branch main (local commit). Push is pending because GitHub requires PAT/SSH.
+
+Next steps to push:
+- Use PAT or SSH. For HTTPS: `git remote set-url origin https://<USER>:<PAT>@github.com/neepster/dnd5eloot.git` then `git push origin main`.
+- For SSH: add your SSH key to GitHub, set remote to `git@github.com:neepster/dnd5eloot.git`, then push.
+
+How to run:
+- `python loot_gui.py`
+- Add enemies (CR, count, hoard?). Optionally load custom_items.json. Enter global extras or scoped items. Click Generate Loot. Copy via button.
+
+Current defaults/notes:
+- Custom items saved automatically when using the scoped “Add” control.
+- Bulk extras under the labeled text area have a hint about formatting.
+- No network dependency (spells are local).
+
