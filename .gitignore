@@ -1,12 +1,21 @@
+# Ignore virtual environments and caches
 .venv/
 __pycache__/
 *.pyc
-*.pyo
-*.pdf
+
+# Ignore local IDE and OS clutter
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Ignore logs or temporary files
+*.log
+*.tmp
 *.html
-*.htm
-*.js
-*.json
-5e-database/
-5e-srd-api/
-DnDAppFiles/
+
+# Keep all web/data files
+#! Do NOT ignore .html, .json, .js, or 5e-database/
+
+# Optional: ignore large artifacts (if needed)
+# SRD.pdf
