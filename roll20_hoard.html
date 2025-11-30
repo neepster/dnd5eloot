@@ -1,0 +1,1770 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta name=“facebook-domain-verification” content=“lb07chyng6etwkpmjwu29mkje960mx” />
+	<!-- Google Tag Manager -->
+  <script id="gtmScript" nonce=''>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl+ '&gtm_auth=RyNPjkDTh-LgK4oo5gJi6A&gtm_preview=env-1&gtm_cookies_win=x';
+  var n=d.querySelector('[nonce]');n&&j.setAttribute('nonce',n.nonce||n.getAttribute('nonce'));f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-MKL9HM6');</script>
+<!-- End Google Tag Manager -->
+	<meta charset="utf-8">
+	
+	<title>Roll20 Compendium</title>
+	
+
+	
+	<script type="text/javascript">
+		d20 = { journal: {} };
+		d20.journal.charsheetFetchPromise = new Promise(() => {});
+	</script>
+
+	
+		<meta property="og:title" content="Roll20 - Compendium and Rule Set Directory" /><meta property='og:type' content='website' />
+<meta property='og:url' content='https://roll20.net' />
+<meta property='og:image' content='images/roll20-compendium-og.jpg' />
+<meta property="og:description" content="Browse and reference your favorite RPG rule sets for systems including D&amp;D, Pathfinder, Call of Cthulhu, and Cyberpunk RED." /><meta property='og:locale' content='en_US' />
+<meta property='og:locale:alternate' content='af_ZA' />
+<meta property='og:locale:alternate' content='ca_CA' />
+<meta property='og:locale:alternate' content='zh_Hant_TW' />
+<meta property='og:locale:alternate' content='cs_CZ' />
+<meta property='og:locale:alternate' content='da_DK' />
+<meta property='og:locale:alternate' content='nl_NL' />
+<meta property='og:locale:alternate' content='fr_FR' />
+<meta property='og:locale:alternate' content='de_DE' />
+<meta property='og:locale:alternate' content='el_GR' />
+<meta property='og:locale:alternate' content='he_IL' />
+<meta property='og:locale:alternate' content='hu_HU' />
+<meta property='og:locale:alternate' content='it_IT' />
+<meta property='og:locale:alternate' content='ja_JP' />
+<meta property='og:locale:alternate' content='ko_KR' />
+<meta property='og:locale:alternate' content='pl_PL' />
+<meta property='og:locale:alternate' content='pt_PT' />
+<meta property='og:locale:alternate' content='ru_RU' />
+<meta property='og:locale:alternate' content='es_ES' />
+<meta property='og:locale:alternate' content='sv_SE' />
+<meta property='og:locale:alternate' content='tr_TR' />
+<meta property='og:locale:alternate' content='uk_UK' />
+
+		<meta property="og:site_name" content="Roll20" />
+		<meta property="og:logo" content="https://roll20.net/images/logo-die-large.png?1763062575" />
+		<meta property="og:image:alt" content='Roll20 logo, a pink and purple 20-sided die with the number twenty featured on its face. The die sits on top of the name "Roll20" in black font.' />
+		<meta name="twitter:card" content="summary"/>
+		<meta name="twitter:site" content="@roll20app"/>
+		
+	
+
+	<link rel="stylesheet" href="/v3/assets/js/libs/@fortawesome/fontawesome-free/css/all.min.css?1763062576" type="text/css" />
+	<link rel="stylesheet" href="/v2/css/fonts.css?1763062575" type="text/css" />
+	<link rel="stylesheet" href="/v2/css/compendium.css?1763062575" type="text/css" />
+	
+		<link rel="stylesheet" href="/assets/v2.css?1763062576" type="text/css" />
+	
+
+	<link rel="stylesheet" href="/v2/css/publishers.css?1763062575" type="text/css" />
+	<link rel="stylesheet" href="/css/themes/bootstrap/jquery-ui-1.8.16.custom.css?1763062575" type="text/css" />
+
+	
+		<script type="text/javascript" src="/assets/v2.js?1763063156"></script>
+	
+
+	<script type="text/javascript" src="/v2/js/typeahead.js?1763062576"></script>
+	<script type="text/javascript" src="/v2/js/compendium.js?1763062576"></script>
+	<script type="text/javascript" src="/v2/js/compendium_edit.js?1763062576"></script>
+	<script type="text/javascript" src="/js/jquery-ui.1.11.2.min.js?1763062575"></script>
+
+	
+	<script src="https://js.stripe.com/v3/"></script>
+	<script type="text/javascript">
+		const stripe = Stripe("pk_live_1vH03GH31ZvT2lI7yU8bcClq9jDHOPU4OlnsWqZKu2s4Vs014SXpmjsjnRv37wD8PhLLkYj1YcLSxVDbdzba2HZiQ00qGgUFDqB");
+		const elements = stripe.elements();
+	</script>
+
+	
+
+	
+
+	<meta name="viewport" content="width=device-width" />
+
+	<script type="text/javascript">
+		$(function() { $.jqotetag( '$' ); });
+	</script>
+
+	
+		<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+	
+
+	<script type="text/javascript">
+		
+			$('html').attr('data-theme', 'light');
+		
+	</script>
+
+	
+	<script type="text/javascript">
+		const url = new URL(window.location.href);
+		url.pathname = url.pathname.split('/').slice(0, 3).join('/'); // get the first one or two parts of the url path i.e. '/campaigns/search' or '/login'
+		var _conv_page_type = url.toString();
+		var _conv_category_id = ""; // unused
+		var _conv_category_name = ""; // only used in V2 marketplace
+		var _conv_product_sku = ""; // only used in V2 marketplace
+		var _conv_product_name = ""; // only used in V2 marketplace & characters
+		var _conv_product_price = ""; // only used in V2 marketplace
+		var _conv_customer_id = 'visitor';
+		var _conv_custom_v1 = 'loggedout';
+		var _conv_custom_v2 = ""; // unused
+		var _conv_custom_v3 = ""; // unused
+		var _conv_custom_v4 = ""; // unused
+	</script>
+	
+    
+		<script type="text/javascript" src="//cdn-4.convertexperiments.com/v1/js/10042023-10042444.js" integrity="sha384-gSDcZjQNbDoXzGah4K3Gb02Y6qVZNgNiMUn6LdQ5FCsldO6ne//TUKkgKabzB65Z"></script>
+	
+</head>
+
+<body class="">
+	<a href="#mainContent" class="skip-link">Skip to Main Content</a>
+	<!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MKL9HM6&gtm_auth=RyNPjkDTh-LgK4oo5gJi6A&gtm_preview=env-1&gtm_cookies_win=x"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	<style>
+	.bottom-banner {
+		background-color: #fff;
+		position: fixed;
+		bottom: 40px;
+		z-index: 9999;
+		width: calc(100% - 30px);
+		margin-left: 15px;
+		box-shadow: 0px 0px 16px #888888;
+		display: flex;
+		align-items:center;
+		justify-content: space-around;
+	}
+
+	.bottom-banner-css-version-v2{
+		border-left: 15px solid #ec008c;
+	}
+	.bottom-banner-css-version-v3{
+		border-left: 15px solid #35c8f5;
+	}
+	.bottom-banner-css-version-v2 .bottom-banner__button{
+		background-color: #35c8f5;
+	}
+	.bottom-banner-css-version-v3 .bottom-banner__button{
+		background-color: #ec008c;
+	}
+
+	.bottom-banner--hidden {
+		display:none;
+	}
+
+	.bottom-banner__message {
+		padding: 1em;
+		float: left;
+		font-size: 12px;
+		line-height: 1.4;
+	}
+
+	.bottom-banner__dismiss-icon {
+		float: right;
+		padding:10px;
+		color: #d1d1d1;
+		cursor: pointer;
+		align-self: flex-start;
+	}
+	.bottom-banner__dismiss-icon:hover {
+		color: #333333;
+	}
+
+	.bottom-banner__button, .bottom-banner__button:hover, .bottom-banner__button:visited, .bottom-banner__button:active {
+		float:right;
+		font-size: 16px;
+		line-height: 1.6;
+		border-radius: 4px;
+		padding: 7px 15px 7px 15px;
+		color: #fff !important;
+		transition: all .25s linear;
+		text-decoration: none;
+	}
+	.bottom-banner__button:hover {
+		color: #fff;
+	}
+
+	.cookie-modal--hidden {
+		display: none;
+		position: fixed;
+		z-index: 10001;
+		left: 0;
+		top: 0;
+		width: 100%;
+		height: 100%;
+		overflow: auto;
+	}
+
+	.cookie-modal-content {
+		background-color: var(--color-surface1);
+		margin: 20% auto;
+		padding: 20px;
+		width: 40%;
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	}
+
+    .cookie-modal-content h3 {
+        display: inline-block;
+	}
+
+	.cookie-modal-css-version-v3 {
+		padding-top: 16px;
+	}
+
+	.cookie-modal_switch .switch{
+        display: inline-block;
+        float: right;
+        margin-top: 30px;
+		width: 60px;
+	}
+	.switch {
+		position: relative;
+		display: inline-block;
+		width: 60px;
+		height: 26px;
+	}
+
+	.switch input {
+		opacity: 0;
+		width: 0;
+		height: 0;
+	}
+
+	.slider {
+		position: absolute;
+		cursor: pointer;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		background-color: #8492A6;
+		-webkit-transition: .3s;
+		transition: .3s;
+	}
+
+	.slider:after {
+		content: "Off";
+		position: absolute;
+		top: 50%;
+		right: 11px;
+		transform: translateY(-50%);
+		color: #fff;
+		font-family: helvetica;
+		font-weight: bold;
+		font-size: 13px;
+	}
+
+	.slider:before {
+		position: absolute;
+		content: "";
+		height: 20px;
+		width: 20px;
+		left: 3px;
+		bottom: 3px;
+		background-color: white;
+		-webkit-transition: .3s;
+		transition: .3s;
+	}
+
+	input:checked + .slider {
+		background-color: #00853C;
+	}
+
+	input:disabled + .slider {
+		cursor: no-drop;
+		background-color: #C2C7D1;
+	}
+
+	input:disabled + .slider:before {
+		background-color: #DFE2E7;
+	}
+
+	input:focus + .slider {
+		box-shadow: 0 0 5px #2196F3;
+	}
+
+	input:checked + .slider:before {
+		-webkit-transform: translateX(33px);
+		-ms-transform: translateX(33px);
+		transform: translateX(33px);
+	}
+
+	input:checked + .slider:after {
+		content: "On";
+		right: auto;
+		left: 11px;
+	}
+
+	/* Rounded sliders */
+	.slider.round {
+		border-radius: 26px;
+		width: 60px;
+	}
+
+	.slider.round:before {
+		border-radius: 50%;
+	}
+	.close {
+		float: right;
+		font-size: 20px;
+		font-weight: bold;
+		line-height: 18px;
+		color: var(--color-grayscale1);
+		text-shadow: 0 1px 0 #ffffff;
+		opacity: 0.2;
+		filter: alpha(opacity=20);
+	}
+	.close:hover {
+		color: var(--color-grayscale1);
+		text-decoration: none;
+		opacity: 0.4;
+		filter: alpha(opacity=40);
+		cursor: pointer;
+	}
+</style>
+
+<!--googleoff: all-->
+<div id="gdpr-notification" class="bottom-banner bottom-banner--hidden bottom-banner-css-version-v2">
+	<div class="bottom-banner__message">
+		Roll20 uses cookies to improve your experience on our site. Cookies enable you to enjoy certain features, social sharing functionality, and tailor message and display ads to your interests on our site and others. They also help us understand how our site is being used. By continuing to use our site, you consent to our use of cookies. Update your cookie preferences <a href='#' id='banner-link-preferences'>here</a>.
+	</div>
+	<span class="bottom-banner__dismiss-icon" id="gdpr-notification-dismiss-button" aria-label="Close Cookie Toast" role="button" tabindex="0">&times;</span>
+</div>
+
+<div id="cookie-modal" class="cookie-modal--hidden">
+
+  <!-- Modal content -->
+  <div class="cookie-modal-content cookie-modal-css-version-v2">
+    <span class="close" id="cookie-modal-dismiss">&times;</span>
+	<h3>Cookie Preferences</h3>
+	<span class="cookie-modal_switch">
+		<label class="switch">
+		<span class="sr-only">Accept cookies</span>
+		<input class="feature_toggle" id="cookie-modal-input" type="checkbox">
+		<span class="slider round"></span>
+	</span>
+	<hr>
+
+    We use Cookies to help personalize and improve Roll20. For more information on our use of non-essential Cookies, visit our Privacy Policy <a href=https://roll20.zendesk.com/hc/articles/360037770793-Terms-of-Service-and-Privacy-Policy target='_blank'>here.</a>
+  </div>
+
+</div>
+<!--googleon: all-->
+
+<script src="https://www.datadoghq-browser-agent.com/datadog-rum.js" type="text/javascript">
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-31040388-1"></script>
+<script type="text/javascript" nonce="">
+	// Google analytics function to send events via analytics.js
+	// Remove after everything has been switched to gtag
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	// Google analytics function to send events via gtag.js
+	function gtag(){dataLayer.push(arguments);}
+
+	initializeOldGoogleAnalytics();
+	initializeNewGoogleAnalytics();
+
+	window['ga-disable-UA-31040388-1'] = true;
+
+	var gdprCookie = getCookie("gdpr_accepts_cookies");
+
+	if (gdprCookie != undefined) {
+		gdprCookie == "true" ? gdprCookie = true : gdprCookie = false;
+	};
+
+	var gdprBanner = document.getElementById("gdpr-notification");
+	var gdprBannerDissmissButton = document.getElementById("gdpr-notification-dismiss-button");
+	var gdprLoggedIn = false;
+	var gdprAccountAcceptsCookies = null;
+
+	var cookieModal = document.getElementById("cookie-modal");
+	var cookieModalClose = document.getElementById("cookie-modal-dismiss");
+	var cookieModalSwitch = document.getElementById("cookie-modal-input");
+
+	var bannerLinkPreferences = document.getElementById("banner-link-preferences");
+
+	bannerLinkPreferences.onclick = function () {
+ 		cookieModal.style.display = 'block';
+		hideGDPRBanner();
+ 	}
+
+	function setGDPRCookie(value, expirationInDays) {
+		var date = new Date();
+		date.setTime(date.getTime() + expirationInDays * 24 * 60 * 60 * 1000); //convert to milleseconds
+		var expires = "expires="+ date.toUTCString();
+		document.cookie = "gdpr_accepts_cookies=" + value + ";" + expires + ";path=/"+ ";domain=.roll20.net";
+	}
+
+	function getCookie(cname) {
+		var name = cname + "=";
+		var ca = document.cookie.split(';');
+		for(var i = 0; i < ca.length; i++) {
+			var c = ca[i];
+			while (c.charAt(0) == ' ') {
+				c = c.substring(1);
+			}
+			if (c.indexOf(name) == 0) {
+				return c.substring(name.length, c.length);
+			}
+		}
+		return undefined;
+	}
+
+	function checkGdprStatus() {
+		if (gdprLoggedIn == true) {
+			checkAccountGdprCookieSettings();
+		} else {
+			checkPublicGdprCookieSettings();
+		}
+	}
+
+	function checkAccountGdprCookieSettings() {
+		var cookieExists = getCookie("gdpr_accepts_cookies");
+
+		switch(cookieExists){
+			case "true":
+				acceptCookies();
+				break
+			case "false":
+				denyCookies();
+				break
+			case undefined:
+				showGDPRBanner();
+				acceptCookies();
+				break
+		}
+	}
+
+	function checkPublicGdprCookieSettings() {
+		console.log('Not logged in - checking cookie GDPR status');
+		const in_discord = false;
+		if (gdprCookie == undefined) {
+			console.log("No GPDR Cookie Detected");
+			// If a user is logging in from the discord activity, we want to deny our cookies by default so we don't show the cookie banner. Later, we can figure out a better way to handle instead of denying out of the gate (so we have analytics, for example), but for MVP, this works
+			if(in_discord){
+				denyCookies();
+			}else{
+				showGDPRBanner();
+				acceptCookies();
+			}
+
+		} else if (gdprCookie == true){
+			console.log("GDPR Cookie Detected");
+			acceptCookies();
+		}
+	}
+
+	// Options object for google analytics based on the current account
+	function getAnalyticsConfigOptions() {
+		
+			return {'cookieDomain': 'auto'}
+		
+	}
+
+	// Not impacted by GDPR - just connects our account
+	// Remove after everything has been switched to gtag
+	function initializeOldGoogleAnalytics() {
+		ga('create', 'UA-31040388-1', getAnalyticsConfigOptions());
+	}
+
+	// Not impacted by GDPR - just connects our account
+	function initializeNewGoogleAnalytics() {
+		window.dataLayer = window.dataLayer || [];
+
+		gtag('js', new Date());
+
+		// Universal analytics
+		gtag('config', 'UA-31040388-1', { ...getAnalyticsConfigOptions(), send_page_view: false });
+		// Google Analytics 4
+		gtag('config', 'G-SZLSVQPSWG', { ...getAnalyticsConfigOptions(), send_page_view: false });
+	}
+
+	function turnOnGoogleAnalytics() {
+		window['ga-disable-UA-31040388-1'] = false;
+		ga('send', 'pageview');
+		if(window.dataLayer) {
+			dataLayer.push({'event': 'optedIn'});
+		}
+	}
+
+	var showGDPRBanner = function () {
+		gdprBanner.classList.remove("bottom-banner--hidden");
+	}
+
+	var hideGDPRBanner = function () {
+		gdprBanner.classList.add("bottom-banner--hidden");
+	}
+
+	var updateUserAccount = function(account_id, value) {
+		var xhr = new XMLHttpRequest();
+		// need to get the below working for marketplace, compendium, landing (only works for app)
+		xhr.open("PATCH", '/accounts/'+account_id, true);
+		xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded; charset=UTF-8');
+		var cookieValue = "account[gdpr_accepts_cookies]=" + value;
+		xhr.send(cookieValue);
+	}
+
+	var acceptCookies = function () {
+		setGDPRCookie(true, 365);
+		
+
+		turnOnGoogleAnalytics();
+		turnOnDataDogRUM();
+		// hideGDPRBanner();
+		document.getElementById("cookie-modal-input").checked = true;
+	}
+
+	var denyCookies = function () {
+		setGDPRCookie(false, 365);
+		
+	}
+
+	var toggleCookie = function () {
+		var switchChecked = document.getElementById("cookie-modal-input").checked;
+		setGDPRCookie(switchChecked, 365);
+
+		
+	}
+
+	var showCookieModal = function (){
+		cookieModal.style.display = "block";
+	}
+	var closeCookieModal = function (){
+		cookieModal.style.display = "none";
+	}
+
+	if (gdprCookie == true || gdprAccountAcceptsCookies == true){
+		document.getElementById("cookie-modal-input").checked = true;
+	}
+
+	gdprBannerDissmissButton.addEventListener("click", hideGDPRBanner);
+	cookieModalClose.addEventListener("click", closeCookieModal);
+	cookieModalSwitch.addEventListener("click", toggleCookie);
+
+	checkGdprStatus();
+
+	function vttSampleRate() {
+		const sampleRate = 0;
+		if (sampleRate > 5) return sampleRate;
+		return 5;
+	}
+
+	function experiment({ chatTech }) {
+		const experimentsEnabled =false;
+		return experimentsEnabled && chatTech === 'simple-peer';
+	}
+
+	function staging({ hostName }) {
+		return hostName === 'roll20staging.net';
+	}
+
+	function ddSampleRate(opts) {
+		if (experiment(opts)) return 100;
+		return staging(opts) ? 100 : vttSampleRate();
+	}
+
+	function turnOnDataDogRUM () {
+		var tmplMeta = {
+			chatTech: '',
+			hostName: 'roll20.net',
+			version: '25.11.13.1',
+		};
+		var sampleRate = ddSampleRate(tmplMeta);
+		window.DD_RUM && window.DD_RUM.init({
+			applicationId: '95ddf222-5b92-4a62-803a-185cdd723c8b',
+			clientToken: 'pub3fb1f7cf273c5d345be974e50be0dfda',
+			site: 'datadoghq.com',
+			service:'d20app',
+			sampleRate,
+			trackInteractions: true,
+			version: tmplMeta.version,
+		});
+	}
+</script>
+
+
+	
+
+	<script type="text/javascript">
+	environment = "production";
+	</script>
+
+	
+
+	<script type="text/javascript">
+		if (window.self != window.top) {
+			$(document.body).addClass("in-iframe");
+		}
+		
+	</script>
+
+	
+
+	<div class="marketplacetopbar container topbar">
+
+	
+
+	
+
+		
+
+		<script type='text/javascript'>
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		(function() {
+		var gads = document.createElement('script');
+		gads.async = true;
+		gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') +
+		'//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+		})();
+		</script>
+
+		<script type='text/javascript'>
+		googletag.cmd.push(function() {
+		googletag.defineSlot('/34541132/Leaderboard-Compendium', [728, 90], 'dfp-1349444251840-1').addService(googletag.pubads());
+		googletag.pubads().enableSingleRequest();
+		googletag.enableServices();
+		});
+		</script>
+
+
+		<div class="bna" style="max-width: 70%; ">
+			
+				<span class="footer">
+					<a href="https://app.roll20.net/create-account?bannertext&utm_source=inhouse&utm_medium=banner&utm_campaign=freetextCTA">
+						Create a free account </a>
+				</span>
+			
+
+			<div id='dfp-1349444251840-1' style='width:728px; overflow: hidden; height:90px; margin-left: auto; margin-right: auto; max-width: 100%;'>
+			<script type='text/javascript'>
+			googletag.cmd.push(function() { /*$("#dfp-1349444251840-1 a").remove();*/ googletag.display('dfp-1349444251840-1'); });
+			</script>
+			</div>
+		</div>
+	
+
+	<div class="row" style="position: relative; z-index: 10000; padding-top: 20px; padding-bottom: 10px; margin-right: 0px; background-color: var(--color-surface1);">
+		<div class="col-md-8 logo" style="width: 275px;">
+			<a href="https://app.roll20.net">
+				
+				
+					<img src="https://app.roll20.net/v2/images/roll20-logo.png?v=2" alt="Roll20 logo" style="" class="withoutad" />
+				
+			</a>
+		</div>
+	</div>
+
+	<div class="row mobilemenu">
+
+		<nav class="col-md-12 btn-row">
+
+			<div class="menu-hider"></div>
+
+			<div class="btn-group">
+				<a class="menutoggler btn btn-default" href="#" class="btn btn-default" role="button">Menu<span class="caret"></span></a>
+
+				<div class="fullmobilemenu">
+
+					<ul class="nav nav-pills nav-stacked">
+
+						<li><a href="https://roll20.net/">Home</a></li>
+						<li><a href="https://app.roll20.net/campaigns/search">My Games</a></li>
+						<li><a href="https://app.roll20.net/lfg">Join a Game</a></li>
+						<li><a href="https://marketplace.roll20.net/">Marketplace</a></li>
+						<li><a href="https://app.roll20.net/characters">Characters</a></li>
+						<li><a href="https://roll20.net/compendium">Compendium</a></li>
+						<li><a href="https://app.roll20.net/forum">Forums</a></li>
+						<li><a href="https://app.roll20.net/why-subscribe-to-roll20">Subscribe</a></li>
+						<li><a href="https://roll20.zendesk.com/">Help Center</a></li>
+						<li><a href="https://wiki.roll20.net/Main_Page">Wiki</a></li>
+						<li><a href="http://blog.roll20.net">Blog</a></li>
+					</ul>
+
+				</div>
+
+			</div>
+
+			<div class="simplecontainer right topbarlogin">
+	
+		<div class="btn-group signin">
+			<button type="button" class="btn btn-default dropdown-toggle signin" data-toggle="dropdown" aria-expanded="false">
+				Sign In
+				<span class="caret"></span>
+			</button>
+		</div>
+		<div class="simple signin">
+			<form action="https://app.roll20.net/sessions/create?backto=https://roll20.net/compendium/dnd5e/Treasure%20Hoard" class="navbar-form form-inline" method="post">
+				<input name="email" type="text" placeholder="Email" aria-label="Email address">
+				<input name="password" type="password" placeholder="Password" aria-label="Password" autocomplete="current-password">
+				<button class="btn btn-primary">Sign In</button>
+				</form>
+			</div>
+	
+</div>
+
+<div class="simplecontainer right topbarnotifications">
+	
+</div>
+
+<div class="simplecontainer right topbarsitenotifications">
+	
+	
+	<div class="btn-group alertcontainer ">
+		<button type="button" class="btn btn-default dropdown-toggle sitenotifications " data-toggle="dropdown" aria-expanded="false" >
+			<div class="countcontainer">
+				
+			</div>
+			<span class="pictos">:</span>
+		</button>
+	</div>
+	<div class="simple sitenotifications">
+		
+			
+				<div class="notification new">
+					<a href="https://blog.roll20.net/posts/map-pins-beta/">
+						<div class="thumbcontainer">
+							<img src="/images/Notification System Icons/chat-pink.png" alt="Notifications">
+						</div>
+						<div class="message">
+							<span class="title"><strong>Map Pins Are Here!</strong></span>
+							<span class="short">Drag and drop handouts onto your maps to organize GM info and share notes with players. Now in beta for Pro and Elite subs.</span>
+						</div>
+					</a>
+				</div>
+			
+		
+			
+				<div class="notification new">
+					<a href="https://blog.roll20.net/posts/map-pins-beta/">
+						<div class="thumbcontainer">
+							<img src="/images/Notification System Icons/chat-pink.png" alt="Notifications">
+						</div>
+						<div class="message">
+							<span class="title"><strong>Map Pins Are Here!</strong></span>
+							<span class="short">Drag and drop handouts onto your maps to organize GM info and share notes with players. Now in Pro+ beta!</span>
+						</div>
+					</a>
+				</div>
+			
+		
+			
+				<div class="notification new">
+					<a href="https://marketplace.roll20.net/browse/bundle/37501/dandd-heroes-of-the-borderlands-starter-set-2024-pre-order">
+						<div class="thumbcontainer">
+							<img src="/images/Notification System Icons/trolley-pink.png" alt="Notifications">
+						</div>
+						<div class="message">
+							<span class="title"><strong>Play the new Starter Set on Roll20!</strong></span>
+							<span class="short">Say yes to adventure with bite-sized modular quests for three distinct settings in Heroes of the Borderlands.</span>
+						</div>
+					</a>
+				</div>
+			
+		
+			
+				<div class="notification new">
+					<a href="https://marketplace.roll20.net/browse/bundle/38547/product-listing-dandd-forgotten-realms-guide-bundle-pre-order">
+						<div class="thumbcontainer">
+							<img src="/images/Notification System Icons/trolley-pink.png" alt="Notifications">
+						</div>
+						<div class="message">
+							<span class="title"><strong>Pre-Order the Forgotten Realms Guide Bundle </strong></span>
+							<span class="short">When you pre-order this bundle featuring Heroes of Faerun &amp; Adventures in Faerun, you’ll receive exclusive bonus VTT maps! </span>
+						</div>
+					</a>
+				</div>
+			
+		
+		<button class="btn btn-primary btn-sm fetch_more_notifications">See More</button>
+	</div>
+</div>
+		</nav>
+	</div>
+
+	<div class="row desktopmenu">
+
+		<nav class="col-md-12 btn-row">
+
+			<div class="menu-hider"></div>
+
+			
+				<div class="btn-group">
+					<a href="https://app.roll20.net/" class="btn btn-default" role="button">Play Now</a>
+				</div>
+				<div class="btn-group">
+					<a href="https://app.roll20.net/lfg" class="btn btn-default" role="button">Join a Game</a>
+				</div>
+			
+
+			<div class="btn-group drop">
+				<a href="https://marketplace.roll20.net" class="btn btn-default" role="button" data-toggle="dropdown" aria-expanded="false" data-hover="dropdown">Marketplace</a>
+				<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false" data-hover="dropdown" id="marketplace">
+					<span class="caret"></span>
+					<span class="sr-only">Toggle Dropdown</span>
+				</button>
+			</div>
+			<div class="full">
+				<div class="menu">
+					<a href="https://marketplace.roll20.net">What's New</a>
+					<a href="https://marketplace.roll20.net/browse">Browse</a>
+					
+					<a href="https://marketplace.roll20.net/gift/">Give a Gift</a>
+					<a href="https://marketplace.roll20.net/coupon/">Redeem a Code</a>
+					<!-- <a href="https://merchoforr.com/">Merchandise</a> -->
+				</div>
+					
+	<div class="listing marketplaceitem">
+			<div class="inneritem">
+				
+				
+					<a href="https://marketplace.roll20.net/browse/bundle/31887/dandd-core-rulebook-bundle-2024" aria-label="D&amp;D Core Rulebook Bundle (2024) "><img src="https://files.d20.io/marketplace/3970529/F_hjWLAuwz0TkrcIf3BxUw/med.png?1718712581469" alt="" /></a>
+				
+				<div class="desc"><em>D&amp;D Core Rulebook Bundle (2024) </em>
+				<br />
+				by Wizards of the Coast
+			</div>
+		</div>
+	</div>
+	
+	<div class="listing marketplaceitem">
+			<div class="inneritem">
+				
+				
+					<a href="https://marketplace.roll20.net/browse/bundle/38547/dandd-forgotten-realms-bundle" aria-label="D&amp;D Forgotten Realms Bundle"><img src="https://files.d20.io/marketplace/4725781/DegReD99wuT6gKoCTwmx6g/med.png?1762830634943" alt="" /></a>
+				
+				<div class="desc"><em>D&amp;D Forgotten Realms Bundle</em>
+				<br />
+				by Wizards of the Coast
+			</div>
+		</div>
+	</div>
+	
+	<div class="listing marketplaceitem">
+			<div class="inneritem">
+				
+				
+					<a href="https://marketplace.roll20.net/browse/bundle/37483/daggerheart-corebook-demiplane-nexus" aria-label="Daggerheart Corebook [Demiplane NEXUS]"><img src="https://files.d20.io/marketplace/4494693/cx5hvur0kUnpuwDYHO3dHw/med.jpg?1747852514628" alt="" /></a>
+				
+				<div class="desc"><em>Daggerheart Corebook [Demiplane NEXUS]</em>
+				<br />
+				by Darrington Press
+			</div>
+		</div>
+	</div>
+	
+	<div class="listing marketplaceitem">
+			<div class="inneritem">
+				
+				
+					<a href="https://marketplace.roll20.net/browse/bundle/29589/pathfinder-core-mega-bundle" aria-label="Pathfinder Core Mega Bundle"><img src="https://files.d20.io/marketplace/3814843/kr9hNl-iDXGErQDeLyvRdQ/med.png?1709085860170" alt="" /></a>
+				
+				<div class="desc"><em>Pathfinder Core Mega Bundle</em>
+				<br />
+				by Paizo
+			</div>
+		</div>
+	</div>
+
+			</div>
+
+			<div class="btn-group drop">
+				<a href="https://roll20.net/compendium/" class="btn btn-default" role="button" data-toggle="dropdown" data-hover="dropdown" aria-expanded="false">Tools</a>
+				<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" aria-expanded="false" id="digitaltools">
+					<span class="caret"></span>
+					<span class="sr-only">Toggle Dropdown</span>
+				</button>
+			</div>
+			<div class="full">
+				<div class="menu">
+					<a href="https://roll20.net/compendium/">Compendium</a>
+					<a href="https://app.roll20.net/characters/">Characters</a>
+					<a href="https://app.roll20.net/audio_library/">Manage Audio</a>
+					
+					<a href="https://app.roll20.net/marker-library">Token Marker Library</a>
+					<a href="https://pages.roll20.net/companionapp">Roll20 Companion App</a>
+					<a href="https://pages.roll20.net/dnd/">D&D Hub</a>
+					<a href="https://pages.roll20.net/marvel-multiverse">Marvel Hub</a>
+					<a href="https://gmhub.roll20.net/">GM Hub</a>
+					<a href="https://dungeonscrawl.com/">Dungeon Scrawl</a>
+					<a href="https://app.demiplane.com/home" class="dropdown-item">Demiplane</a>
+				</div>
+				<div class="listing">
+					<div class="imgcontainer">
+						<a href="https://app.roll20.net/characters/">
+							<img src="/images/Roll20Characters-TopNav.jpg" alt="Characters">
+						</a>
+					</div>
+					<div class="gameinfo">
+						<a href="https://app.roll20.net/characters/">Characters</a>
+						<div class="shorthr"></div>
+						<span class="gameinfo">Create, Manage, and Play Characters</span>
+					</div>
+				</div>
+				<div class="listing">
+					<div class="imgcontainer">
+						<a href="https://roll20.net/compendium/">
+							<img src="/images/banner-compendium.jpg" alt="Compendium">
+						</a>
+					</div>
+					<div class="gameinfo">
+						<a href="https://roll20.net/compendium/">Compendium</a>
+						<div class="shorthr"></div>
+						<span class="gameinfo">Your System Come To Life</span>
+					</div>
+				</div>
+				
+				<div class="listing">
+					<div class="imgcontainer">
+						<a href="https://app.roll20.net/vault/characters">
+							<img src="/images/banner-character-vault.jpg" alt="Character Vault">
+						</a>
+					</div>
+					<div class="gameinfo">
+						<a href="https://app.roll20.net/vault/characters">Character Vault</a>
+						<div class="shorthr"></div>
+						<span class="gameinfo">Create, Manage, and Play Characters</span>
+					</div>
+				</div>
+				
+				<div class="listing">
+					<div class="imgcontainer">
+						<a href="https://dungeonscrawl.com">
+							<img src="/images/banner-dungeonscrawl.png" alt="Dungeon Scrawl">
+						</a>
+					</div>
+					<div class="gameinfo">
+						<a href="https://dungeonscrawl.com">Dungeon Scrawl</a>
+						<div class="shorthr"></div>
+						<span class="gameinfo">Create Maps for your Games</span>
+					</div>
+				</div>
+
+			</div>
+
+			
+
+			<div class="btn-group drop">
+				<a href="https://app.roll20.net/forum/" class="btn btn-default community-toggler" role="button" data-toggle="dropdown" data-hover="dropdown" aria-expanded="false">Community</a>
+				<button type="button" class="btn btn-default dropdown-toggle community community-toggler" data-toggle="dropdown" data-hover="dropdown" aria-expanded="false" id="community">
+					<span class="caret"></span>
+					<span class="sr-only">Toggle Dropdown</span>
+				</button>
+			</div>
+			<div class="full community">
+				<div class="menu">
+					<a href="https://help.roll20.net/hc/en-us" target="_blank" rel="noopener">Help Center</a>
+					<a href="https://blog.roll20.net/">Blog</a>
+					<a href="https://wiki.roll20.net/Main_Page" target="_blank" rel="noopener">Community Wiki</a>
+					<a href="https://app.roll20.net/lfg/search/" target="_blank" rel="noopener">Find a Group</a>
+					<a href="https://help.roll20.net/hc/en-us/articles/360037772613-Change-Log" target="_blank" rel="noopener">Recent Updates</a>
+				</div>
+					<div class="listing">
+		<div class="imgcontainer">
+			<a href="https://discord.com/invite/roll20">
+				<img src="https://cdn.roll20.net/commslots/Comm_Discord.png" alt="Official Discord" />
+			</a>
+		</div>
+		<p class="snippet">
+			<a href="https://discord.com/invite/roll20">
+				Official Discord
+			</a>
+		</p>
+	</div>
+	<div class="listing">
+		<div class="imgcontainer">
+			<a href="https://app.roll20.net/forum">
+				<img src="https://cdn.roll20.net/commslots/Comm_Forums.png" alt="Forums" />
+			</a>
+		</div>
+		<p class="snippet">
+			<a href="https://app.roll20.net/forum">
+				Forums
+			</a>
+		</p>
+	</div>
+	<div class="listing">
+		<div class="imgcontainer">
+			<a href="https://app.roll20.net/lfg/search/">
+				<img src="https://cdn.roll20.net/commslots/Comm_LFG.png" alt="Find a Group" />
+			</a>
+		</div>
+		<p class="snippet">
+			<a href="https://app.roll20.net/lfg/search/">
+				Find a Group
+			</a>
+		</p>
+	</div>
+	<div class="listing">
+		<div class="imgcontainer">
+			<a href="https://www.reddit.com/r/Roll20/">
+				<img src="https://cdn.roll20.net/commslots/Comm_Reddit.png" alt="Community Reddit" />
+			</a>
+		</div>
+		<p class="snippet">
+			<a href="https://www.reddit.com/r/Roll20/">
+				Community Reddit
+			</a>
+		</p>
+	</div>
+
+			</div>
+
+			
+
+			
+			<div class="btn-group" id="optlysub">
+				<a href="https://app.roll20.net/why-subscribe-to-roll20" class="btn btn-default" role="button" >Subscribe</a>
+			</div>
+			
+
+			
+			
+
+			<div class="simplecontainer right topbarlogin">
+	
+		<div class="btn-group signin">
+			<button type="button" class="btn btn-default dropdown-toggle signin" data-toggle="dropdown" aria-expanded="false">
+				Sign In
+				<span class="caret"></span>
+			</button>
+		</div>
+		<div class="simple signin">
+			<form action="https://app.roll20.net/sessions/create?backto=https://roll20.net/compendium/dnd5e/Treasure%20Hoard" class="navbar-form form-inline" method="post">
+				<input name="email" type="text" placeholder="Email" aria-label="Email address">
+				<input name="password" type="password" placeholder="Password" aria-label="Password" autocomplete="current-password">
+				<button class="btn btn-primary">Sign In</button>
+				</form>
+			</div>
+	
+</div>
+
+<div class="simplecontainer right topbarnotifications">
+	
+</div>
+
+<div class="simplecontainer right topbarsitenotifications">
+	
+	
+	<div class="btn-group alertcontainer ">
+		<button type="button" class="btn btn-default dropdown-toggle sitenotifications " data-toggle="dropdown" aria-expanded="false" >
+			<div class="countcontainer">
+				
+			</div>
+			<span class="pictos">:</span>
+		</button>
+	</div>
+	<div class="simple sitenotifications">
+		
+			
+				<div class="notification new">
+					<a href="https://blog.roll20.net/posts/map-pins-beta/">
+						<div class="thumbcontainer">
+							<img src="/images/Notification System Icons/chat-pink.png" alt="Notifications">
+						</div>
+						<div class="message">
+							<span class="title"><strong>Map Pins Are Here!</strong></span>
+							<span class="short">Drag and drop handouts onto your maps to organize GM info and share notes with players. Now in beta for Pro and Elite subs.</span>
+						</div>
+					</a>
+				</div>
+			
+		
+			
+				<div class="notification new">
+					<a href="https://blog.roll20.net/posts/map-pins-beta/">
+						<div class="thumbcontainer">
+							<img src="/images/Notification System Icons/chat-pink.png" alt="Notifications">
+						</div>
+						<div class="message">
+							<span class="title"><strong>Map Pins Are Here!</strong></span>
+							<span class="short">Drag and drop handouts onto your maps to organize GM info and share notes with players. Now in Pro+ beta!</span>
+						</div>
+					</a>
+				</div>
+			
+		
+			
+				<div class="notification new">
+					<a href="https://marketplace.roll20.net/browse/bundle/37501/dandd-heroes-of-the-borderlands-starter-set-2024-pre-order">
+						<div class="thumbcontainer">
+							<img src="/images/Notification System Icons/trolley-pink.png" alt="Notifications">
+						</div>
+						<div class="message">
+							<span class="title"><strong>Play the new Starter Set on Roll20!</strong></span>
+							<span class="short">Say yes to adventure with bite-sized modular quests for three distinct settings in Heroes of the Borderlands.</span>
+						</div>
+					</a>
+				</div>
+			
+		
+			
+				<div class="notification new">
+					<a href="https://marketplace.roll20.net/browse/bundle/38547/product-listing-dandd-forgotten-realms-guide-bundle-pre-order">
+						<div class="thumbcontainer">
+							<img src="/images/Notification System Icons/trolley-pink.png" alt="Notifications">
+						</div>
+						<div class="message">
+							<span class="title"><strong>Pre-Order the Forgotten Realms Guide Bundle </strong></span>
+							<span class="short">When you pre-order this bundle featuring Heroes of Faerun &amp; Adventures in Faerun, you’ll receive exclusive bonus VTT maps! </span>
+						</div>
+					</a>
+				</div>
+			
+		
+		<button class="btn btn-primary btn-sm fetch_more_notifications">See More</button>
+	</div>
+</div>
+		</nav>
+	</div>
+</div>
+
+<script type="text/javascript">
+
+$(".signin input").click(function() {
+		return false;
+});
+
+$("body, .simplecontainer").on("click", ".full, .simplecontainer .simple", function(e) {
+	e.stopPropagation();
+});
+
+$(".menutoggler").on("click", function() {
+	$(".mobilemenu").addClass("open");
+	return false;
+});
+
+$(document).on("click", function() {
+	$(".mobilemenu").removeClass("open");
+});
+
+if('ontouchstart' in document) {
+	//touch-compatible
+}
+else {
+	//mouse-compatible
+	$(".topbar .btn-group a.btn[data-toggle=dropdown]").removeAttr("data-toggle");
+	$('[data-hover="dropdown"]').dropdownHover({hoverDelay: 100, delay: 300});
+}
+
+var trackOutboundLink = function(url) {
+	ga('send', 'event', 'outbound', 'obsAdvert', '', {
+		'transport': 'beacon',
+		'hitCallback': function(){document.location = url;}
+	});
+}
+$(function() {
+	setTimeout(function(){
+		if($(".obs_container").length > 0) {
+			// GA Event Tracking
+			ga('send', {
+				'hitType': 'event',
+				'eventCategory': 'obsAdvert',
+				'eventAction': 'topbar',
+				'eventLabel': ''
+			});
+		}
+	}, 0);
+});
+
+	if(window.dataLayer) {
+		dataLayer.push({ 'event': 'start_pw'});
+	}
+</script>
+
+
+	<div class="container primarycontentcontainer" id="mainContent">
+
+		<style type="text/css">
+
+	.conintro h1 {
+		font-size: 7.0em;
+		line-height: .85em;
+		margin-top: 0;
+		z-index: 2;
+	}
+	.conintro p {
+		font-size: 1.1em;
+		line-height: 1.4em;
+	}
+	.conintro img.intrographic {
+		top: 50px;
+		left: 450px;
+		z-index: 1;
+	}
+
+</style>
+<div class="container" style="overflow: hidden;">
+	<div class="conintro row">
+		<div class="col-md-12">
+			<h1>Page Not Found.</h1>
+			<p>The page you have attempted to reach does not exist. Please check your URL and try again.</p>
+		</div>
+	</div>
+</div>
+
+
+	</div>
+
+	<footer id="footer" class="container globalfooter">
+	<div class="footer-terms">
+        
+	        <a href="https://roll20.net/" target="_blank"><img src="/v3/assets/img/logos/roll20-logo-new-light.svg" alt="Go to Roll20 Homepage"/></a>
+        
+        <span>&copy; Roll20, LLC | <a href="https://help.roll20.net/hc/articles/360037770793-Terms-of-Service-and-Privacy-Policy#Notification_of_Copyright_Infringement_.28DMCA_Policy.29" target="_blank">Terms of Service & Privacy Policy</a> | <a href="https://help.roll20.net/hc/articles/360037770833-DMCA" target="_blank">DMCA</a> | <a href="https://roll20.zendesk.com/hc/requests/new " target="_blank">Contact Us</a> | <a href="https://roll20.net/help" target="_blank">Help Center</a> | All rights reserved. All product and company names are trademarks<sup>&trade;</sup> or registered<sup>&reg;</sup> trademarks of their respective holders.</span>
+        
+            <div class="socials">
+                <a href="http://discord.gg/roll20" target="_blank"><img src="/v2/images/Discord-LightMode.png" alt="Join the Roll20 Discord Server" /></a>
+                <a href="https://www.facebook.com/roll20app/" target="_blank"><img src="/v2/images/Icon-Facebook.png" alt="Go to Roll20 on Facebook" /></a>
+                <a href="https://x.com/roll20app" target="_blank"><img src="/v2/images/Icon-X.png" alt="Go to Roll20 on Twitter" /></a>
+                <a href="https://bsky.app/profile/roll20.net" target="_blank"><img src="/v2/images/Icon-Bluesky.png" alt="Go to Roll20 on Bluesky" /></a>
+                <a href="https://www.instagram.com/roll20app/" target="_blank"><img src="/v2/images/Icon-Instagram.png" alt="Go to Roll20 on Instagram" /></a>
+                <a href=" https://www.tiktok.com/@roll20app?lang=en" target="_blank"><img src="/v2/images/Icon-TikTok.png" alt="Go to Roll20 on TikTok"  style="max-height: 41px;"/></a>
+                <a href="https://www.youtube.com/roll20app" target="_blank"><img src="/v2/images/Icon-YouTube.png" alt="Go to Roll20 on YouTube" /></a>
+                <a href="https://www.twitch.tv/roll20app " target="_blank"><img src="/v2/images/Icon-Twitch.png" alt="Go to Roll20 on Twitch" /></a>
+                <a href="https://www.linkedin.com/company/roll20/" target="_blank"><img src="/v2/images/Icon-LinkedIn.png" alt="Go to Roll20 on LinkedIn" /></a>
+            </div>
+        
+	</div>
+	<div class="footer-content">
+        <span class="powered-by">Powered by Roll20</span>
+
+        <div class="grid-container">
+            <div class="section">
+                <a class="section-title" href="https://roll20.net" target="_blank">Roll20 <br> The #1 Tabletop for Playing RPGs Online</a>
+                
+                <p class="collapsed-section-title">Roll20 <br> <i>The #1 Tabletop for Playing RPGs Online</i></p>
+                <div class="section-content">
+                    <a href="https://roll20.net" target="_blank">Roll20 Tabletop</a>
+                    <a href="https://app.roll20.net/characters" target="_blank">Roll20 Characters</a>
+                    <a href="https://marketplace.roll20.net" target="_blank">Roll20 Marketplace</a>
+                    <a href="https://roll20.net/compendium" target="_blank">Roll20 Compendium</a>
+                </div>
+            </div>
+
+            <div class="section">
+                <a class="section-title" href="https://drivethrurpg.com/" target="_blank" aria-label="Go to DriveThru Homepage">DriveThru <br> The Largest RPG Marketplace</a>
+                <p class="collapsed-section-title">DriveThru <br> <i>The Largest RPG Marketplace</i></p>
+
+                <div class="section-content">
+                    
+                    <a class="homepage-link" href="https://drivethrurpg.com/" target="_blank">DriveThru</a>
+                    <a href="https://www.drivethrucomics.com/" target="_blank">DriveThruComics</a>
+                    <a href="https://www.drivethrufiction.com/index.php" target="_blank">DriveThruFiction</a>
+                    <a href="https://www.drivethrucards.com/" target="_blank">DriveThruCards</a>
+                    <a href="https://www.wargamevault.com/" target="_blank">Wargame Vault</a>
+                </div>
+            </div>
+
+            <div class="section">
+                <a class="section-title" href="https://app.demiplane.com/home" target="_blank" aria-label="Go to Demiplane Homepage">Demiplane <br> Official Character Creation and Game Companion</a>
+                <p class="collapsed-section-title">Demiplane <br> <i>Official Character Creation and Game Companion</i></p>
+                <div class="section-content">
+                    <a class="homepage-link" href="https://app.demiplane.com/home" target="_blank">Demiplane</a>
+                    <a href="https://app.demiplane.com/nexus/pathfinder2e" target="_blank">Pathfinder Nexus</a>
+                    <a href="https://app.demiplane.com/nexus/daggerheart" target="_blank">Daggerheart Nexus</a>
+                    <a href="https://app.demiplane.com/nexus/vampire" target="_blank">Vampire: The Masquerade Nexus</a>
+                    <a href="https://app.demiplane.com/nexus/marvelrpg" target="_blank">Marvel Multiverse RPG Nexus</a>
+                    <a href="https://app.demiplane.com/nexus/cosmererpg" target="_blank">Cosmere RPG Nexus</a>
+                    <a href="https://cyberpunkrednexus.com" target="_blank">Cyberpunk RED Nexus</a>
+                </div>
+            </div>
+
+            <div class="section">
+                <a class="section-title" href="https://www.dungeonscrawl.com/" target="_blank" aria-label="Go to Dungeon Scrawl Homepage">Dungeon Scrawl <br> Create RPG Maps in Minutes</a>
+                <p class="collapsed-section-title">Dungeon Scrawl <br> <i>Create RPG Maps in Minutes</i></p>
+
+                <div class="section-content">
+                    <a class="homepage-link" href="https://www.dungeonscrawl.com/" target="_blank">Dungeon Scrawl</a>
+                    <a href="https://www.dungeonscrawl.com/" target="_blank">Create a Map</a>
+                </div>
+            </div>
+
+            <div class="section">
+                <span class="section-title community-content">Community Content</span>
+                <p class="collapsed-section-title">Community Content <br> <i>Adventure by Fans Everywhere</i></p>
+
+                <div class="section-content">
+                    <a href="https://www.dmsguild.com/" target="_blank">Dungeon Masters Guild (D&D)</a>
+                    <a href="https://www.pathfinderinfinite.com/" target="_blank">Pathfinder Infinite</a>
+                    <a href="https://www.starfinderinfinite.com/" target="_blank">Starfinder Infinite</a>
+                    <a href="https://www.drivethrurpg.com/cc/16/Miskatonic " target="_blank">Miskatonic Repository</a>
+                    <a href="https://www.storytellersvault.com/" target="_blank">Storytellers Vault</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+	<div class="footer-bottom">
+        <div class="dice">
+            <img src="/v2/images/Icon-Dice.svg" alt="Dice Icon"/>
+        </div>
+        <div class="roll20-logos">
+            <div class="roll20-logo-text">
+                
+                    <img src="/v2/images/roll20-logo.png" alt="Pink Roll20 logo"/>
+                
+                <p class="bottom-text">Everything for <br> your adventures</p>
+            </div>
+            <div class="all-logos">
+                
+                    <img src="/v3/assets/img/logos/roll20-logo-new-light.svg" alt="Pink Roll20 Logo"/>
+                
+                <img src="/v2/images/DriveThruRPG-LG.png" alt="DriveThru RPG Logo"/>
+                
+                    <img src="/v2/images/Demiplane-LG.png" alt="Demiplane Logo"/>
+                
+                <img src="/v2/images/DMG-LG.png" alt="Dungeon Masters Guild Logo"/>
+                
+                    <img src="/v2/images/DungeonScrawl-LG.png" alt="Dungeon Scrawl Logo"/>
+                
+            </div>
+        </div>
+	</div>
+</footer>
+
+<style>
+#footer {
+    padding-top: 3rem;
+}
+.footer-terms{
+	display: flex;
+	justify-content: space-around;
+    align-items: center;
+    font-weight: 300;
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+}
+.footer-terms span{
+    width: 60%;
+    padding-left: 1rem;
+}
+sup {
+/* necessary to override stylings */
+    top: 0;
+    font-size: 100%;
+}
+
+.powered-by {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 2rem 3.5rem;
+}
+.powered-by::before,
+.powered-by::after {
+    content: "";
+    flex: 1;
+    border-bottom: 1px solid rgba(98, 91, 101, 1);
+    margin: 0 10px;
+}
+
+.section-content{
+    display: flex;
+    flex-direction: column;
+
+}
+.section-content a{
+    color: var(--color-grayscale1);
+}
+.homepage-link{
+    display: none;
+}
+.community-content{
+    color: var(--color-primary-text) !important;
+}
+/* Large screens - 3 columns layout (2, 1, 2) */
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; /* Three columns */
+    gap: 10px;
+    align-items: start; /* Ensures items align to the top of the grid */
+    grid-auto-flow: dense;
+    padding-left: 3.5rem;
+}
+
+/* Define where each section goes in the grid */
+.section:nth-child(1),
+.section:nth-child(2) {
+    grid-column: 1;
+}
+
+.section:nth-child(3) {
+    grid-column: 2;
+    grid-row: span 2;
+}
+
+.section:nth-child(4){
+    grid-column: 3;
+    grid-row: 1;
+}
+.section:nth-child(5) {
+    grid-column: 3;
+    grid-row: 2;
+    /* below two lines are to move the final section up out of the set grid to match design */
+    position: relative;
+    top: -60px;
+}
+
+.collapsed-section-title{
+    display: none;
+}
+
+.dice{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding: 0 7.5rem;
+}
+.dice::before,
+.dice::after {
+    content: "";
+    flex: 1;
+    border-bottom: 1px solid rgba(98, 91, 101, 1);
+    margin: 0 10px;
+}
+.roll20-logo-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.roll20-logo-text img{
+    height: 7rem;
+}
+.bottom-text{
+    color: var(--color-grayscale1);
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.footer-bottom{
+    padding-bottom: 30px;
+}
+.roll20-logos{
+    padding: 2rem 0 2rem 3rem;
+    display: flex;
+    justify-content: space-between;
+}
+.all-logos{
+    text-align: center;
+    width: 68%;
+}
+.all-logos img{
+    padding-right: 3rem;
+}
+
+/* There is a higher-level page break in a different CSS file, so I need to handle a specific width here when that happens */
+@media (max-width: 1200px) {
+    .all-logos {
+        width: 70%;
+    }
+    .all-logos img{
+        padding-right: 1rem;
+    }
+}
+/* There is a higher-level page break in a different CSS file, so I need to handle a specific width here when that happens */
+@media (max-width: 991px) {
+    .footer-terms span {
+        width: 48%;
+        padding-left: 10px;
+    }
+}
+
+/* Medium screens - 2 columns layout (2, 3) */
+@media (max-width: 1024px) {
+    .grid-container {
+        grid-template-columns: 1fr 1fr; /* Two equal columns */
+    }
+
+    .section:nth-child(1),
+    .section:nth-child(2) {
+        grid-column: 1;
+    }
+
+    .section:nth-child(2){
+        position: relative;
+        top: -30px;
+    }
+
+    .section:nth-child(3){
+        grid-column: 2;
+        grid-row: 1
+    }
+    .section:nth-child(4){
+        grid-column: 2;
+        grid-row: 2
+    }
+    .section:nth-child(5) {
+        grid-column: 2;
+        grid-row: 3;
+    }
+    .footer-bottom{
+        position: relative;
+        top: -30px;
+    }
+    .all-logos{
+        display: none;
+    }
+    .roll20-logos{
+        justify-content: center;
+    }
+    .dice{
+        padding: 0;
+    }
+    .powered-by {
+        padding: 2rem 0;
+    }
+}
+
+/* Small screens - 1 column, collapsible sections */
+@media (max-width: 768px) {
+    .section-title {
+        display: none;
+    }
+
+    .socials{
+        display: flex;
+        gap: 1rem;
+        padding-top: 1rem;
+    }
+    .collapsed-section-title{
+        display: unset;
+        width: 100%;
+        font-weight: 600;
+    }
+    .footer-terms{
+        flex-direction: column;
+
+    }
+    .footer-terms span{
+        display: none;
+    }
+    .footer-content{
+        display: flex;
+        flex-direction: column;
+    }
+    .grid-container {
+        display: flex;
+        flex-direction: column;
+        align-self: center;
+        width: 50%;
+        padding-left: 0;
+    }
+
+    .homepage-link{
+        display: unset;
+    }
+    .globalfooter p{
+        color: var(--color-grayscale1);
+    }
+
+    .section{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+        flex-direction: column;
+        border-bottom: 1px solid rgba(98, 91, 101, 1);
+        width: 110%;
+        padding: 0 1.2rem 0 1.2rem;
+    }
+
+    .section-content a{
+        color: var(--color-primary-text);
+    }
+
+    .section:nth-child(2){
+        top: 0;
+    }
+    .section:nth-child(5) {
+        top: 0;
+    }
+
+    i {
+        font-weight: 400;
+    }
+    .section-content {
+        display: none; /* Hidden by default */
+    }
+
+    .section.active .section-content {
+        display: flex; /* Show content when active */
+        flex-direction: column;
+        align-items: flex-start;
+        width: 98%;
+        font-size: 1.5rem;
+        padding: 0 0 10px 5px;
+
+    }
+
+    .collapsed-section-title::after {
+        content: '+';
+        float: right;
+    }
+
+    .collapsed-section-title.active::after {
+        content: '-';
+        transform: scaleX(1.8);
+    }
+    .footer-bottom{
+        position: relative;
+        top: 20px;
+    }
+}
+
+
+
+</style>
+
+<script>
+    // Toggle collapsible sections on small screens
+    document.querySelectorAll('.collapsed-section-title').forEach(section => {
+        section.addEventListener('click', function() {
+            this.classList.toggle('active');
+            this.parentElement.classList.toggle('active');
+        });
+    });
+</script>
+
+ <!-- This is the footer that is shared across all pages -->
+
+	<script type="text/javascript">
+    $(function() {
+        var cookieName = "roll20tempauth";
+        var cookieValue = Math.floor(Math.random()*100);
+        var myDate = new Date();
+        myDate.setMonth(myDate.getMonth() + 1);
+        var cookieinfo = cookieName +"=" + cookieValue + ";expires=" + myDate + ";domain=.roll20.net;path=/";
+        document.cookie = cookieinfo;
+    });
+</script>
+
+
+	<script id="tmpl_campaigntag" type="text/html">
+		<div class="tag"><$=this.model.get("tag")$></div>
+	</script>
+
+	<script id="tmpl_campaigntags" type="text/html">
+		<div class="tags tagset">
+			<div class="tagslabel">
+				<span class="pictos">z</span>
+				Tags:
+			</div>
+			<input>
+			<$ if(this.editable == "true") { $>
+			<div class="add">
+				<em>
+					<span class="pictos">p</span>
+					Edit Tags
+				</em>
+			</div>
+			<$ } $>
+		</div>
+		<div class="clear"></div>
+	</script>
+
+	<script id="tmpl_uploadslot" type="text/html">
+		<div class="avatar dropbox <$! (this != "" ? "filled" : "empty") $>">
+		<div class="status"></div>
+		<div class="inner">
+		<$ if(this == "") { $>
+		<h4 style="padding-bottom: 0px; marigin-bottom: 0px; color: #777;">Drop a File<small>(JPG, PNG, GIF)</small></h4>
+		<div style="margin-top: -5px; margin-bottom: 5px;">or</div>
+		<a href="javascript:void(0);" class="btn btn-info" style="margin-bottom: 10px;">Choose a File...</a>
+		<input class="manual" type="file" />
+		<$ } else { $>
+		<img src="<$!this$>" />
+		<div class='remove'><a href='javascript:void(0);'>Change Image</a></div>
+		<$ } $>
+		</div>
+		</div>
+	</script>
+
+	<script type="text/javascript">
+	$("#roll20-top .loginform button").on("click", function() {
+		console.log("click");
+		var $form = $(this).parents("form");
+		$form.attr("action", $form.attr("action") + "?backto=" + escape(window.location));
+		$form.submit();
+		return false;
+	});
+
+	$(".topbarnotifications .notification button").on("click", function() {
+		let notid = $(this).attr("data-notification-id");
+		let othis = this;
+		$.getJSON("https://app.roll20.net/notifications/dismiss/" + notid + "/?callback=?", function(data) {
+			if(notid == "all") {
+				$(othis).parents(".notifications").fadeOut();
+				$(".alertcount").html("");
+				$(".topbarnotifications .alertcontainer").html("<a href='https://app.roll20.net/private_message/inbox/' class='btn btn-default pictos' role='button' style='color:#555'>M</a>")
+				return;
+			}
+			if($(othis).attr("href")) {
+				window.location = "https://app.roll20.net" + $(othis).attr("href");
+			}
+			else {
+				$(othis).parents(".notification").fadeOut();
+				let $count = $(othis).parents(".notifications").find("a .count");
+				let current = parseInt($.trim($count.text()), 10);
+				current = current - 1;
+				if(current < 0) current = 0;
+				$count.text(current);
+				countdown = parseInt($(".alertcount").html(), 10)
+				$(".alertcount").html(countdown - 1);
+				if(countdown < 2) {
+					$(othis).parents(".notifications").fadeOut();
+					$(".alertcount").html("");
+					$(".topbarnotifications .alertcontainer").html("<a href='https://app.roll20.net/private_message/inbox/' class='btn btn-default pictos' role='button' style='color:#555'>M</a>")
+					return;
+				}
+			}
+		});
+		return false;
+	});
+
+	$(".topbarsitenotifications .newalerts button").on("click", function() {
+		
+	});
+
+	$(".topbarsitenotifications .sitenotifications button.fetch_more_notifications").on("click", function() {
+		window.location = "https://app.roll20.net/sitenotifications";
+	});
+</script>
+	<script type="text/javascript">
+function getS3Endpoint(
+	url,
+) {
+	if (!url || typeof url !== 'string') return '';
+
+	return url
+		.replace('s3.amazonaws.com/files.d20.io', 'files.d20.io')
+		.replace('s3.amazonaws.com/files.staging.d20.io', 'files.staging.d20.io')
+		.replace('s3.amazonaws.com/files-d20-io', 'files.d20.io')
+		.replace('s3.amazonaws.com/files-staging-d20-io', 'files.staging.d20.io');
+}
+
+window.d20ext = window.d20ext || {};
+window.d20ext.utils = window.d20ext.utils || {};
+window.d20ext.utils.getS3Endpoint = getS3Endpoint;
+</script>
+</body>
+</html>

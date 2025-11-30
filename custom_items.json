@@ -1,0 +1,14 @@
+{
+  "I": [
+    "Laerfalas, Song of the Forest, Longsword +3"
+  ],
+  "CR_SCOPED": [
+    {
+      "range": [
+        17,
+        Infinity
+      ],
+      "item": "Laerfalas, Song of the Forest, Longsword +3"
+    }
+  ]
+}
